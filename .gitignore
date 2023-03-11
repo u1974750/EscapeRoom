@@ -1,5 +1,6 @@
 # Visual Studio 2015 user specific files
 .vs/
+*.log
 
 # Compiled Object files
 *.slo
@@ -72,3 +73,10 @@ Plugins/*/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+EscapeRoom/Saved/Logs/EscapeRoom.log
+EscapeRoom/Saved/Config/WindowsEditor/Engine.ini
+EscapeRoom/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+EscapeRoom/Saved/Config/CrashReportClient/UECC-Windows-4D307DB043EE7E7AF20C8EBA2CF0921C/CrashReportClient.ini
+EscapeRoom/Intermediate/CachedAssetRegistry.bin
+EscapeRoom/Saved/Logs/EscapeRoom.log
+EscapeRoom/Saved/Config/WindowsEditor/Engine.ini
