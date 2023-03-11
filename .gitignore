@@ -80,3 +80,5 @@ EscapeRoom/Saved/Config/CrashReportClient/UECC-Windows-4D307DB043EE7E7AF20C8EBA2
 EscapeRoom/Intermediate/CachedAssetRegistry.bin
 EscapeRoom/Saved/Logs/EscapeRoom.log
 EscapeRoom/Saved/Config/WindowsEditor/Engine.ini
+EscapeRoom/Saved/Config/WindowsEditor/EditorPerProjectUserSettings.ini
+*.log
