@@ -5,6 +5,9 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/UI/PauseMenu.uasset",
+				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/UI/BookMenu.uasset",
+				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
 				"C:/Users/Mika/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/UE/YUZ9741T50O1SYRX90OB0S.uasset",
 				"C:/Users/Mika/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/EF/G3O7YJR3QU51OHQGRYB635.uasset",
 				"C:/Users/Mika/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/DD/654T6CAPVSXAN1LXEX71EI.uasset",
