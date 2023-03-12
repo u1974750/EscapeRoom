@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Unreal Projects/EscapeRoom/EscapeRoom/Content/Maps/PrototipCalderoMecanic.umap",
+				"D:/Unreal Projects/EscapeRoom/EscapeRoom/Content/BP/Caldero/BP_cauldron.uasset",
 				"C:/Users/Mika/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
 				"C:/Users/Mika/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/AI/0XWE3RNM2XQC0ST1KXG02O.uasset",
 				"C:/Users/Mika/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/YY/ZEL6NJUQJU43LAD9X3NXTT.uasset",
