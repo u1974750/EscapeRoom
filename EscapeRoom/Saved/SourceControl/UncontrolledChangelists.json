@@ -5,6 +5,12 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
+				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/BP/UI/BookMenu.uasset",
+				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/BP/UI/PauseMenu.uasset",
+				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/UI/PauseMenu.uasset",
+				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/UI/BookMenu.uasset",
+				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/BP/UI/MenuStructurer.uasset",
 				"D:/Unreal Projects/EscapeRoom/EscapeRoom/Content/Maps/PrototipCalderoMecanic.umap",
 				"D:/Unreal Projects/EscapeRoom/EscapeRoom/Content/BP/Caldero/BP_cauldron.uasset",
 				"C:/Users/Mika/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/NB/NWWEVRQSGT6ARVZ8HQLCM9.uasset",
