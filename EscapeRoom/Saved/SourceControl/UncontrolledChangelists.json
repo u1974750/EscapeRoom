@@ -6,11 +6,12 @@
 			"description": "Default Uncontrolled Changelist",
 			"files": [
 				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/FirstPerson/Blueprints/BP_FirstPersonCharacter.uasset",
-				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/BP/UI/BookMenu.uasset",
 				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/BP/UI/PauseMenu.uasset",
 				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/BP/UI/MenuStructurer.uasset",
 				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/BP/BookUI/BookMenu.uasset",
 				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/BP/UI/BookMenu1.uasset",
+				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/BP/BookUI/BookInterface.uasset",
+				"D:/Universidad/EscapeRoom/EscapeRoom/EscapeRoom/Content/BP/UI/BookMenu.uasset",
 				"C:/Users/sirag/Documents/Unreal Projects/EscapeRoom_MotoresII/EscapeRoom/Content/Assets_Map/Materials/M_llave.uasset",
 				"C:/Users/sirag/Documents/Unreal Projects/EscapeRoom_MotoresII/EscapeRoom/Content/Assets_Map/Models/Candado_Top.uasset",
 				"C:/Users/sirag/Documents/Unreal Projects/EscapeRoom_MotoresII/EscapeRoom/Content/Assets_Map/Models/Candado_Bot.uasset",
