@@ -1529,3 +1529,43 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.15-09.59.00:519][483]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/Inventario/UMG/WB_GameHUD_Auto2
 [2023.04.15-09.59.00:520][483]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/WB_GameHUD_Auto2DEF6100144250C3AAFDC58B3E7F77C7F.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/BP/Inventario/UMG/WB_GameHUD_Auto2.uasset'
 [2023.04.15-09.59.00:520][483]LogFileHelpers: Auto-saving content packages took 0.060
+[2023.04.15-10.01.48:575][847]BlueprintLog: New page: Compile WB_GameHUD
+[2023.04.15-10.01.48:632][847]LogUObjectHash: Compacting FUObjectHashTables data took   0.96ms
+[2023.04.15-10.01.48:660][847]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.15-10.01.48:745][847]LogSavePackage: Moving output files for package: /Game/BP/Inventario/UMG/WB_GameHUD
+[2023.04.15-10.01.48:745][847]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/WB_GameHUDA819D9E14772A4C62DFF7285648C51E3.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/BP/Inventario/UMG/WB_GameHUD.uasset'
+[2023.04.15-10.01.48:750][847]LogFileHelpers: InternalPromptForCheckoutAndSave took 91 ms (total: 906 ms)
+[2023.04.15-10.01.48:756][847]AssetCheck: New page: Asset Save: WB_GameHUD
+[2023.04.15-10.01.48:756][847]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BP/Inventario/UMG/WB_GameHUD.WB_GameHUD
+[2023.04.15-10.01.49:638][929]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-10.01.49:638][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-10.01.49:643][929]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-10.01.49:643][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-10.01.52:231][202]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-10.01.52:231][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-10.01.52:237][202]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-10.01.52:237][202]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-10.01.52:553][235]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-10.01.52:553][235]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-10.01.54:453][427]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.04.15-10.01.54:460][427]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.15-10.01.54:523][427]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/SE/CRN0ASVLT92TJVEND3QUA6
+[2023.04.15-10.01.54:523][427]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/CRN0ASVLT92TJVEND3QUA627E9596447A6B10BEE275AA80011CCCC.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/SE/CRN0ASVLT92TJVEND3QUA6.uasset'
+[2023.04.15-10.01.54:524][427]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/7E/4QGNFMRKZ2URFYTOCTEG44
+[2023.04.15-10.01.54:524][427]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/4QGNFMRKZ2URFYTOCTEG44CAEE96B14570BD89A42347A5ADCEB08D.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/7E/4QGNFMRKZ2URFYTOCTEG44.uasset'
+[2023.04.15-10.01.54:526][427]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/4S/0PZANBDJ5GB4TYKMNZPWYF
+[2023.04.15-10.01.54:526][427]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/0PZANBDJ5GB4TYKMNZPWYFCFE4A3FF4521F36FE68F7EBD81DA6650.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/4S/0PZANBDJ5GB4TYKMNZPWYF.uasset'
+[2023.04.15-10.01.54:527][427]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9T/47SQQFM7T34HIO9TJ85MNQ
+[2023.04.15-10.01.54:528][427]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/47SQQFM7T34HIO9TJ85MNQ75CF8FA04EABE056843146AD2AE0E11D.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9T/47SQQFM7T34HIO9TJ85MNQ.uasset'
+[2023.04.15-10.01.54:529][427]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/2S/UPMCDCEQESHOP6HK9VOIKL
+[2023.04.15-10.01.54:530][427]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/UPMCDCEQESHOP6HK9VOIKLDFA128FD410C4DDDB12FFFA16312441E.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/2S/UPMCDCEQESHOP6HK9VOIKL.uasset'
+[2023.04.15-10.01.54:562][427]LogSavePackage: Moving output files for package: /Game/BP/Inventario/TemplatePickup
+[2023.04.15-10.01.54:562][427]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/TemplatePickup17A99D3A44A42110493D818A864EDA36.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/BP/Inventario/TemplatePickup.uasset'
+[2023.04.15-10.01.54:567][427]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 1.01 sec)
+[2023.04.15-10.01.54:572][427]AssetCheck: New page: Asset Save: multiple assets
+[2023.04.15-10.01.54:572][427]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/Inventario/TemplatePickup.TemplatePickup
+[2023.04.15-10.01.54:572][427]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_D85ED39B9B0F6E6E01_1471379679
+[2023.04.15-10.01.54:572][427]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_D85ED39B9B0F357601_1369427102
+[2023.04.15-10.01.54:572][427]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_D85ED39B9B0F347601_1696686923
+[2023.04.15-10.01.54:572][427]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_D85ED39B9B0F357601_1367584101
+[2023.04.15-10.01.54:572][427]LogContentValidation: Display: Validating /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.BP_FirstPersonCharacter_C_UAID_0A002700000A587401_1576541164
