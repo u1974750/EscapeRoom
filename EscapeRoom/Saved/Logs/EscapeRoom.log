@@ -1194,3 +1194,338 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.04.15-09.39.01:224][346]AssetCheck: New page: Asset Save: multiple assets
 [2023.04.15-09.39.01:224][346]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter
 [2023.04.15-09.39.01:224][346]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BP/Inventario/UMG/WB_GameHUD.WB_GameHUD
+[2023.04.15-09.41.32:596][960]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Inventario/TemplatePickup.TemplatePickup
+[2023.04.15-09.41.32:596][960]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-09.41.35:756][278]LogViewport: Scene viewport resized to 1157x685, mode Windowed.
+[2023.04.15-09.41.47:452][661]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-09.41.47:453][661]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-09.41.58:621][806]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/Inventario/UMG/WB_GameHUD.WB_GameHUD
+[2023.04.15-09.41.58:622][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-09.41.58:634][806]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-09.41.58:881][806]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.15-09.41.58:881][806]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.15-09.42.19:851][161]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/Inventario/UMG/WB_errorMessage.WB_errorMessage
+[2023.04.15-09.42.19:851][161]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-09.42.19:867][161]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-09.42.20:113][161]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.15-09.42.20:113][161]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.04.15-09.46.36:451][589]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP/Inventario/TemplatePickup.TemplatePickup
+[2023.04.15-09.46.36:452][589]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-09.48.08:846][599]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2023.04.15-09.48.08:848][599]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.041
+[2023.04.15-09.48.08:849][599]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/Inventario/TemplatePickup] ([2] browsable assets)...
+[2023.04.15-09.48.08:849][599]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Inventario/TemplatePickup]
+[2023.04.15-09.48.08:860][599]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/Inventario/TemplatePickup_Auto1
+[2023.04.15-09.48.08:860][599]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/TemplatePickup_Auto1BFD3EFCB44E54714CC785A9607A4889E.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/BP/Inventario/TemplatePickup_Auto1.uasset'
+[2023.04.15-09.48.08:862][599]LogFileHelpers: Auto-saving content packages took 0.014
+[2023.04.15-09.55.23:032][878]BlueprintLog: New page: Compile WB_GameHUD
+[2023.04.15-09.55.23:099][878]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.04.15-09.55.23:130][878]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.15-09.55.23:232][878]LogSavePackage: Moving output files for package: /Game/BP/Inventario/UMG/WB_GameHUD
+[2023.04.15-09.55.23:232][878]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/WB_GameHUD39DA7D2E42F4B58B61B1918267D2ECAF.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/BP/Inventario/UMG/WB_GameHUD.uasset'
+[2023.04.15-09.55.23:237][878]LogFileHelpers: InternalPromptForCheckoutAndSave took 107 ms (total: 715 ms)
+[2023.04.15-09.55.23:243][878]AssetCheck: New page: Asset Save: WB_GameHUD
+[2023.04.15-09.55.23:243][878]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BP/Inventario/UMG/WB_GameHUD.WB_GameHUD
+[2023.04.15-09.55.25:172][ 71]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.15-09.55.25:178][ 71]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.04.15-09.55.25:179][ 71]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.15-09.55.25:180][ 71]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.15-09.55.25:180][ 71]LogWorldPartition: Display: GetPartitionedActors took 113 us
+[2023.04.15-09.55.25:180][ 71]LogWorldPartition: Display: GenerateStreaming took 716 us
+[2023.04.15-09.55.25:192][ 71]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.04.15-09.55.25:196][ 71]LogPlayLevel: [PlayLevel] Compiling FirstPerson_AnimBP before play...
+[2023.04.15-09.55.25:205][ 71]LogPlayLevel: [PlayLevel]   Compiling BP_FirstPersonCharacter as a dependent...
+[2023.04.15-09.55.25:312][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2023.04.15-09.55.25:314][ 71]LogPlayLevel: PlayLevel: Blueprint regeneration took 121 ms (2 blueprints)
+[2023.04.15-09.55.25:314][ 71]PIE: New page: PIE session: FirstPersonMap (15 abr. 2023 13:55:25)
+[2023.04.15-09.55.25:317][ 71]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.04.15-09.55.25:318][ 71]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.04.15-09.55.25:319][ 71]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.04.15-09.55.25:324][ 71]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005138s)
+[2023.04.15-09.55.25:324][ 71]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.005375s)
+[2023.04.15-09.55.25:324][ 71]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-09.55.25:325][ 71]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.04.15-09.55.25:325][ 71]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.04.15-09.55.25:325][ 71]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.15-09.55.25:325][ 71]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.04.15-09.55.25:326][ 71]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.04.15-09.55.25:326][ 71]LogWorldPartition: Display: WorldPartition initialize took 993 us (total: 321 ms)
+[2023.04.15-09.55.25:326][ 71]LogPlayLevel: PIE: World Init took: (0.001860s)
+[2023.04.15-09.55.25:352][ 71]LogUObjectHash: Compacting FUObjectHashTables data took   0.70ms
+[2023.04.15-09.55.25:354][ 71]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.04.15-09.55.25:354][ 71]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-09.55.25:354][ 71]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-09.55.25:354][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-09.55.25:354][ 71]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-09.55.25:354][ 71]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-09.55.25:354][ 71]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.15-09.55.25:354][ 71]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-09.55.25:354][ 71]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-09.55.25:354][ 71]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-09.55.25:354][ 71]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-09.55.25:354][ 71]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-09.55.25:356][ 71]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.15-09.55.25:368][ 71]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (High Definition Audio Device)
+[2023.04.15-09.55.25:368][ 71]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-09.55.25:368][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-09.55.25:368][ 71]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-09.55.25:369][ 71]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.04.15-09.55.25:369][ 71]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.04.15-09.55.25:370][ 71]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.04.15-09.55.25:370][ 71]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.04.15-09.55.25:370][ 71]LogInit: FAudioDevice initialized.
+[2023.04.15-09.55.25:370][ 71]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2023.04.15-09.55.25:422][ 71]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-09.55.25:423][ 71]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.15-09.55.25:426][ 71]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.04.15-11.55.25
+[2023.04.15-09.55.25:427][ 71]LogWorld: Bringing up level for play took: 0.003256
+[2023.04.15-09.55.25:429][ 71]LogOnline: OSS: Created online subsystem instance for: :Context_16
+[2023.04.15-09.55.25:450][ 71]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-260.666 Y=1775.800 Z=98.150
+[2023.04.15-09.55.25:458][ 71]LogScript: Warning: Script Msg: The widget 'WB_GameHUD_C_0' was already added to the screen.
+[2023.04.15-09.55.25:458][ 71]LogScript: Warning: Last function called:
+	/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C.ExecuteUbergraph_BP_FirstPersonCharacter
+
+[2023.04.15-09.55.25:462][ 71]PIE: Server logged in
+[2023.04.15-09.55.25:463][ 71]PIE: Play in editor total start time 0,286 seconds.
+[2023.04.15-09.55.25:483][ 71]LogViewport: Scene viewport resized to 982x980, mode Windowed.
+[2023.04.15-09.55.29:502][415]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.15-09.55.29:502][415]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.04.15-09.55.29:502][415]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.04.15-09.55.30:483][506]LogViewport: Scene viewport resized to 1920x998, mode Windowed.
+[2023.04.15-09.55.31:414][578]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.04.15-09.55.31:414][578]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.04.15-09.55.36:320][974]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.15-09.55.36:320][974]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.04.15-09.55.38:085][126]LogScript: Warning: Attempted to access index 0 from array Inventory of length 0!
+	WB_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.WB_GameHUD_C_0
+	Function /Game/BP/Inventario/UMG/WB_GameHUD.WB_GameHUD_C:ExecuteUbergraph_WB_GameHUD:00B2
+[2023.04.15-09.55.38:085][126]PIE: Error: Blueprint Runtime Error: "Attempted to access index 0 from array Inventory of length 0!". Node:  View Action Graph:  EventGraph Function:  Execute Ubergraph WB Game HUD Blueprint:  WB_GameHUD
+[2023.04.15-09.55.38:085][126]LogScript: Warning: Accessed None reading structure Item_5_A5D68F5C42CAE06BD8C3F6B2C16361F7
+	WB_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_0.WB_GameHUD_C_0
+	Function /Game/BP/Inventario/UMG/WB_GameHUD.WB_GameHUD_C:ExecuteUbergraph_WB_GameHUD:00B2
+[2023.04.15-09.55.38:085][126]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Item_5_A5D68F5C42CAE06BD8C3F6B2C16361F7". Node:  View Action Graph:  EventGraph Function:  Execute Ubergraph WB Game HUD Blueprint:  WB_GameHUD
+[2023.04.15-09.55.38:086][126]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_UAID_0A002700000A587401_1576541164] Konnichiwa babe
+[2023.04.15-09.55.38:087][126]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_UAID_0A002700000A587401_1576541164] AIDUA SATAN
+[2023.04.15-09.55.38:087][126]LogBlueprintUserMessages: [WB_GameHUD_C_0] ITEM VISTO
+[2023.04.15-09.55.41:021][381]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.04.15-09.55.41:021][381]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.04.15-09.55.41:679][438]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.15-09.55.41:679][438]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.04.15-09.55.42:280][490]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.04.15-09.55.42:280][490]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.04.15-09.55.45:453][765]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.15-09.55.45:453][765]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.04.15-09.55.46:653][869]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.04.15-09.55.46:653][869]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.04.15-09.55.47:317][922]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-09.55.47:318][922]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.04.15-09.55.47:319][922]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.04.15-09.55.47:324][922]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-09.55.47:324][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-09.55.47:324][922]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.04.15-09.55.47:327][922]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-09.55.47:333][922]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-09.55.47:368][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.04.15-09.55.47:369][922]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.04.15-09.55.47:386][922]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2023.04.15-09.55.47:538][923]LogPlayLevel: Display: Destroying online subsystem :Context_16
+[2023.04.15-09.55.55:216][720]LogSlate: Window 'Message Log' being destroyed
+[2023.04.15-09.55.55:220][720]LogSlate: Window 'Message Log' being destroyed
+[2023.04.15-09.56.46:305][763]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.15-09.56.46:310][763]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.04.15-09.56.46:311][763]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.15-09.56.46:311][763]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.15-09.56.46:311][763]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 118 us)
+[2023.04.15-09.56.46:311][763]LogWorldPartition: Display: GenerateStreaming took 223 us (total: 939 us)
+[2023.04.15-09.56.46:311][763]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-09.56.46:311][763]PIE: New page: PIE session: FirstPersonMap (15 abr. 2023 13:56:46)
+[2023.04.15-09.56.46:311][763]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.04.15-09.56.46:315][763]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004131s)
+[2023.04.15-09.56.46:315][763]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004152s)
+[2023.04.15-09.56.46:315][763]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-09.56.46:315][763]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.04.15-09.56.46:315][763]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.04.15-09.56.46:315][763]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.15-09.56.46:315][763]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.04.15-09.56.46:317][763]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.04.15-09.56.46:317][763]LogWorldPartition: Display: WorldPartition initialize took 958 us (total: 322 ms)
+[2023.04.15-09.56.46:317][763]LogPlayLevel: PIE: World Init took: (0.001616s)
+[2023.04.15-09.56.46:350][763]LogUObjectHash: Compacting FUObjectHashTables data took   1.09ms
+[2023.04.15-09.56.46:352][763]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.04.15-09.56.46:352][763]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-09.56.46:352][763]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-09.56.46:352][763]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-09.56.46:352][763]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-09.56.46:352][763]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-09.56.46:352][763]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.15-09.56.46:352][763]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-09.56.46:352][763]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-09.56.46:352][763]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-09.56.46:352][763]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-09.56.46:352][763]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-09.56.46:354][763]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.15-09.56.46:365][763]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (High Definition Audio Device)
+[2023.04.15-09.56.46:365][763]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-09.56.46:365][763]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-09.56.46:365][763]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-09.56.46:366][763]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.04.15-09.56.46:366][763]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.04.15-09.56.46:367][763]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.04.15-09.56.46:367][763]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.04.15-09.56.46:367][763]LogInit: FAudioDevice initialized.
+[2023.04.15-09.56.46:367][763]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2023.04.15-09.56.46:467][763]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-09.56.46:467][763]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.15-09.56.46:469][763]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.04.15-11.56.46
+[2023.04.15-09.56.46:469][763]LogWorld: Bringing up level for play took: 0.001738
+[2023.04.15-09.56.46:470][763]LogOnline: OSS: Created online subsystem instance for: :Context_17
+[2023.04.15-09.56.46:470][763]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.15-09.56.46:471][763]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-260.666 Y=1775.800 Z=98.150
+[2023.04.15-09.56.46:473][763]LogScript: Warning: Script Msg: The widget 'WB_GameHUD_C_0' was already added to the screen.
+[2023.04.15-09.56.46:473][763]LogScript: Warning: Last function called:
+	/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C.ExecuteUbergraph_BP_FirstPersonCharacter
+
+[2023.04.15-09.56.46:474][763]PIE: Server logged in
+[2023.04.15-09.56.46:475][763]PIE: Play in editor total start time 0,165 seconds.
+[2023.04.15-09.56.46:480][763]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.04.15-09.56.49:085][903]LogViewport: Scene viewport resized to 1360x686, mode Windowed.
+[2023.04.15-09.56.55:908][543]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.15-09.56.55:908][543]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.04.15-09.56.55:908][543]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.04.15-09.56.57:999][752]LogScript: Warning: Attempted to access index 0 from array Inventory of length 0!
+	WB_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WB_GameHUD_C_0
+	Function /Game/BP/Inventario/UMG/WB_GameHUD.WB_GameHUD_C:ExecuteUbergraph_WB_GameHUD:00B2
+[2023.04.15-09.56.57:999][752]PIE: Error: Blueprint Runtime Error: "Attempted to access index 0 from array Inventory of length 0!". Node:  View Action Graph:  EventGraph Function:  Execute Ubergraph WB Game HUD Blueprint:  WB_GameHUD
+[2023.04.15-09.56.57:999][752]LogScript: Warning: Accessed None reading structure Item_5_A5D68F5C42CAE06BD8C3F6B2C16361F7
+	WB_GameHUD_C /Engine/Transient.UnrealEdEngine_0:GameInstance_1.WB_GameHUD_C_0
+	Function /Game/BP/Inventario/UMG/WB_GameHUD.WB_GameHUD_C:ExecuteUbergraph_WB_GameHUD:00B2
+[2023.04.15-09.56.57:999][752]PIE: Error: Blueprint Runtime Error: "Accessed None reading structure Item_5_A5D68F5C42CAE06BD8C3F6B2C16361F7". Node:  View Action Graph:  EventGraph Function:  Execute Ubergraph WB Game HUD Blueprint:  WB_GameHUD
+[2023.04.15-09.56.57:999][752]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_UAID_0A002700000A587401_1576541164] Konnichiwa babe
+[2023.04.15-09.56.58:000][752]LogBlueprintUserMessages: [BP_FirstPersonCharacter_C_UAID_0A002700000A587401_1576541164] AIDUA SATAN
+[2023.04.15-09.56.58:000][752]LogBlueprintUserMessages: [WB_GameHUD_C_0] ITEM VISTO
+[2023.04.15-09.57.02:411][193]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.04.15-09.57.02:411][193]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.04.15-09.57.04:925][441]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-09.57.04:925][441]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.04.15-09.57.04:925][441]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.04.15-09.57.04:928][441]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-09.57.04:928][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-09.57.04:928][441]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.04.15-09.57.04:945][441]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-09.57.04:950][441]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-09.57.04:983][441]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-09.57.04:983][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.15-09.57.04:985][441]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.04.15-09.57.04:989][441]LogUObjectHash: Compacting FUObjectHashTables data took   0.97ms
+[2023.04.15-09.57.05:109][442]LogPlayLevel: Display: Destroying online subsystem :Context_17
+[2023.04.15-09.57.16:197][500]LogSlate: Window 'Message Log' being destroyed
+[2023.04.15-09.57.16:201][500]LogSlate: Window 'Message Log' being destroyed
+[2023.04.15-09.57.40:552][383]BlueprintLog: New page: Compile WB_GameHUD
+[2023.04.15-09.57.40:599][383]LogUObjectHash: Compacting FUObjectHashTables data took   1.11ms
+[2023.04.15-09.57.40:626][383]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.04.15-09.57.40:720][383]LogSavePackage: Moving output files for package: /Game/BP/Inventario/UMG/WB_GameHUD
+[2023.04.15-09.57.40:721][383]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/WB_GameHUDF8D94F614105C99EDE3CBFB1589615C7.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/BP/Inventario/UMG/WB_GameHUD.uasset'
+[2023.04.15-09.57.40:726][383]LogFileHelpers: InternalPromptForCheckoutAndSave took 99 ms (total: 815 ms)
+[2023.04.15-09.57.40:730][383]AssetCheck: New page: Asset Save: WB_GameHUD
+[2023.04.15-09.57.40:730][383]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BP/Inventario/UMG/WB_GameHUD.WB_GameHUD
+[2023.04.15-09.57.41:733][493]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.04.15-09.57.41:737][493]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.04.15-09.57.41:739][493]LogWorldPartition: Display: GenerateStreaming started...
+[2023.04.15-09.57.41:739][493]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.04.15-09.57.41:739][493]LogWorldPartition: Display: GetPartitionedActors took 4 us (total: 122 us)
+[2023.04.15-09.57.41:739][493]LogWorldPartition: Display: GenerateStreaming took 208 us (total: 1 ms)
+[2023.04.15-09.57.41:739][493]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.04.15-09.57.41:739][493]PIE: New page: PIE session: FirstPersonMap (15 abr. 2023 13:57:41)
+[2023.04.15-09.57.41:739][493]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.04.15-09.57.41:743][493]LogPlayLevel: PIE: StaticDuplicateObject took: (0.004068s)
+[2023.04.15-09.57.41:743][493]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.004089s)
+[2023.04.15-09.57.41:743][493]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.04.15-09.57.41:743][493]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.04.15-09.57.41:744][493]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.04.15-09.57.41:744][493]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.04.15-09.57.41:744][493]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.04.15-09.57.41:744][493]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.04.15-09.57.41:744][493]LogWorldPartition: Display: WorldPartition initialize took 958 us (total: 323 ms)
+[2023.04.15-09.57.41:744][493]LogPlayLevel: PIE: World Init took: (0.001609s)
+[2023.04.15-09.57.41:775][493]LogUObjectHash: Compacting FUObjectHashTables data took   0.90ms
+[2023.04.15-09.57.41:777][493]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.04.15-09.57.41:777][493]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.04.15-09.57.41:777][493]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.04.15-09.57.41:777][493]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.04.15-09.57.41:777][493]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.04.15-09.57.41:777][493]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.04.15-09.57.41:777][493]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.04.15-09.57.41:777][493]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.04.15-09.57.41:777][493]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.04.15-09.57.41:777][493]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.04.15-09.57.41:777][493]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.04.15-09.57.41:777][493]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.04.15-09.57.41:778][493]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.04.15-09.57.41:790][493]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (High Definition Audio Device)
+[2023.04.15-09.57.41:790][493]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.04.15-09.57.41:790][493]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.04.15-09.57.41:790][493]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.04.15-09.57.41:790][493]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.04.15-09.57.41:790][493]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.04.15-09.57.41:792][493]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.04.15-09.57.41:792][493]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.04.15-09.57.41:792][493]LogInit: FAudioDevice initialized.
+[2023.04.15-09.57.41:792][493]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2023.04.15-09.57.41:836][493]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-09.57.41:836][493]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.04.15-09.57.41:837][493]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.04.15-11.57.41
+[2023.04.15-09.57.41:838][493]LogWorld: Bringing up level for play took: 0.001755
+[2023.04.15-09.57.41:839][493]LogOnline: OSS: Created online subsystem instance for: :Context_18
+[2023.04.15-09.57.41:839][493]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.04.15-09.57.41:840][493]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-260.666 Y=1775.800 Z=98.150
+[2023.04.15-09.57.41:841][493]LogScript: Warning: Script Msg: The widget 'WB_GameHUD_C_0' was already added to the screen.
+[2023.04.15-09.57.41:841][493]LogScript: Warning: Last function called:
+	/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C.ExecuteUbergraph_BP_FirstPersonCharacter
+
+[2023.04.15-09.57.41:843][493]PIE: Server logged in
+[2023.04.15-09.57.41:844][493]PIE: Play in editor total start time 0,107 seconds.
+[2023.04.15-09.57.41:851][493]LogViewport: Scene viewport resized to 1360x686, mode Windowed.
+[2023.04.15-09.57.45:363][794]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.15-09.57.45:363][794]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.04.15-09.57.45:363][794]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.04.15-09.57.48:045][ 59]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.04.15-09.57.48:045][ 59]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.04.15-09.57.50:120][246]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.04.15-09.57.50:120][246]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.04.15-09.57.52:495][422]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.04.15-09.57.52:495][422]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.04.15-09.57.52:495][422]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.04.15-09.57.52:498][422]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.04.15-09.57.52:499][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-09.57.52:499][422]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.04.15-09.57.52:501][422]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.04.15-09.57.52:505][422]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.04.15-09.57.52:538][422]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.04.15-09.57.52:538][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.15-09.57.52:540][422]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.04.15-09.57.52:544][422]LogUObjectHash: Compacting FUObjectHashTables data took   0.91ms
+[2023.04.15-09.57.52:570][424]LogPlayLevel: Display: Destroying online subsystem :Context_18
+[2023.04.15-09.59.00:451][483]LogUObjectHash: Compacting FUObjectHashTables data took   0.95ms
+[2023.04.15-09.59.00:454][483]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/SE/CRN0ASVLT92TJVEND3QUA6_Auto2
+[2023.04.15-09.59.00:454][483]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/CRN0ASVLT92TJVEND3QUA6_Auto225FE01934FBAE2435FA724AD2C7FF447.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/SE/CRN0ASVLT92TJVEND3QUA6_Auto2.uasset'
+[2023.04.15-09.59.00:456][483]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/7E/4QGNFMRKZ2URFYTOCTEG44_Auto2
+[2023.04.15-09.59.00:456][483]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/4QGNFMRKZ2URFYTOCTEG44_Auto20A1916DC4347E2C5A9DF30B01F55FDE3.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/7E/4QGNFMRKZ2URFYTOCTEG44_Auto2.uasset'
+[2023.04.15-09.59.00:457][483]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/4S/0PZANBDJ5GB4TYKMNZPWYF_Auto2
+[2023.04.15-09.59.00:457][483]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/0PZANBDJ5GB4TYKMNZPWYF_Auto26575FBFD45EBC919F3CE4AA4EDB35A9F.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/4S/0PZANBDJ5GB4TYKMNZPWYF_Auto2.uasset'
+[2023.04.15-09.59.00:458][483]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9T/47SQQFM7T34HIO9TJ85MNQ_Auto2
+[2023.04.15-09.59.00:459][483]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/47SQQFM7T34HIO9TJ85MNQ_Auto2B00CCC164C2A4E8DDB5034933A1F20C2.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/9T/47SQQFM7T34HIO9TJ85MNQ_Auto2.uasset'
+[2023.04.15-09.59.00:460][483]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/2S/UPMCDCEQESHOP6HK9VOIKL_Auto2
+[2023.04.15-09.59.00:460][483]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/UPMCDCEQESHOP6HK9VOIKL_Auto238209F124461E6367A31B99C4D9E696B.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/2S/UPMCDCEQESHOP6HK9VOIKL_Auto2.uasset'
+[2023.04.15-09.59.00:461][483]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.048
+[2023.04.15-09.59.00:461][483]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2023.04.15-09.59.00:461][483]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/Inventario/TemplatePickup] ([2] browsable assets)...
+[2023.04.15-09.59.00:487][483]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/Inventario/TemplatePickup.TemplatePickup]
+[2023.04.15-09.59.00:487][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Inventario/TemplatePickup]
+[2023.04.15-09.59.00:500][483]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/Inventario/TemplatePickup_Auto2
+[2023.04.15-09.59.00:500][483]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/TemplatePickup_Auto2CBAA6D0A40028C00E7870990B8A471B5.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/BP/Inventario/TemplatePickup_Auto2.uasset'
+[2023.04.15-09.59.00:501][483]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/Inventario/UMG/WB_GameHUD] ([2] browsable assets)...
+[2023.04.15-09.59.00:502][483]OBJ SavePackage:     Rendered thumbnail for [WidgetBlueprint /Game/BP/Inventario/UMG/WB_GameHUD.WB_GameHUD]
+[2023.04.15-09.59.00:502][483]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Inventario/UMG/WB_GameHUD]
+[2023.04.15-09.59.00:519][483]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/Inventario/UMG/WB_GameHUD_Auto2
+[2023.04.15-09.59.00:520][483]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/WB_GameHUD_Auto2DEF6100144250C3AAFDC58B3E7F77C7F.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/BP/Inventario/UMG/WB_GameHUD_Auto2.uasset'
+[2023.04.15-09.59.00:520][483]LogFileHelpers: Auto-saving content packages took 0.060
