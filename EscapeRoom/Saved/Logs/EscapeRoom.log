@@ -4924,3 +4924,123 @@ Script Stack (0 frames) :
 [2023.05.26-15.27.27:563][432]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A002700000A237D01_1863549183
 [2023.05.26-15.27.27:563][432]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.StaticMeshActor_UAID_5CBAEF9AC9524C8601_2032966089
 [2023.05.26-15.27.30:357][453]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.27.35:405][468]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.27.40:451][483]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.27.47:764][503]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.27.53:799][518]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.27.54:239][518]LogUObjectHash: Compacting FUObjectHashTables data took   1.91ms
+[2023.05.26-15.27.54:242][518]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.083
+[2023.05.26-15.27.57:174][527]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.02:218][542]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.04:335][550]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.05:037][551]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.08:836][564]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.11:211][566]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.12:413][567]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.13:152][568]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.13:164][569]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2023.05.26-15.28.13:867][569]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.15:918][575]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.17:312][578]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.18:516][579]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.19:695][580]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.19:695][580]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2023.05.26-15.28.20:398][581]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.22:404][582]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.23:107][583]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.24:617][584]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.25:320][585]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.26:782][586]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.26:782][586]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2023.05.26-15.28.27:483][587]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.33:530][605]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.34:736][606]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.35:057][607]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2023.05.26-15.28.36:793][612]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.38:943][618]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.41:067][624]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.41:770][625]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.42:786][626]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.43:989][627]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.45:263][628]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.45:263][628]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2023.05.26-15.28.45:967][629]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.47:639][630]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.48:343][631]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.50:365][632]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.51:070][633]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.52:783][634]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.52:783][634]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2023.05.26-15.28.53:485][635]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.55:556][636]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.56:259][637]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.58:349][638]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.28.59:052][639]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.29.00:656][640]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.29.00:656][640]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2023.05.26-15.29.03:008][641]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.29.05:424][642]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.29.06:127][643]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.29.09:088][648]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.29.10:135][651]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.29.11:338][652]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.29.12:274][653]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.29.12:274][653]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2023.05.26-15.29.12:976][654]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.29.14:533][655]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.29.15:235][656]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.29.16:691][657]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.29.17:394][658]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2023.05.26-15.29.19:234][659]LogRendererCore: Warning: Query 'SlateUI' not ready.
+[2023.05.26-15.29.55:216][777]LogUObjectHash: Compacting FUObjectHashTables data took   1.17ms
+[2023.05.26-15.29.55:223][777]LogStall: Shutdown...
+[2023.05.26-15.29.55:243][777]LogStall: Shutdown complete.
+[2023.05.26-15.29.55:346][777]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.26-15.29.55:347][777]LogWorld: UWorld::CleanupWorld for World_24, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-15.29.55:347][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-15.29.55:724][777]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.05.26-15.29.55:724][777]LogWorld: UWorld::CleanupWorld for World_13, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-15.29.55:724][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-15.29.56:149][777]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-15.29.56:149][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-15.29.56:162][777]LogWorld: UWorld::CleanupWorld for World_14, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-15.29.56:162][777]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-15.29.56:408][777]LogSlate: Window 'EscapeRoom - Unreal Editor' being destroyed
+[2023.05.26-15.29.56:651][778]Cmd: QUIT_EDITOR
+[2023.05.26-15.29.56:651][778]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.05.26-15.29.56:666][778]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.05.26-15.29.56:667][778]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.05.26-15.29.56:667][778]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.05.26-15.29.56:683][778]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.05.26-15.29.56:684][778]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.05.26-15.29.56:687][778]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.05.26-15.29.56:704][778]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.05.26-15.29.56:712][778]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.05.26-15.29.57:717][778]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.05.26-15.29.57:717][778]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.05.26-15.29.57:717][778]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2023.05.26-15.29.57:728][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.05.26-15.29.57:732][778]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.05.26-15.29.57:746][778]LogAudio: Display: Audio Device Manager Shutdown
+[2023.05.26-15.29.57:757][778]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.05.26-15.29.57:758][778]LogExit: Preparing to exit.
+[2023.05.26-15.29.57:867][778]LogUObjectHash: Compacting FUObjectHashTables data took   2.66ms
+[2023.05.26-15.29.57:945][778]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:946][778]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:958][778]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:960][778]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:960][778]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:960][778]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:960][778]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:960][778]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:960][778]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:960][778]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:960][778]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:960][778]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:961][778]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:961][778]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:961][778]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:961][778]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:961][778]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:961][778]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.05.26-15.29.57:962][778]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
