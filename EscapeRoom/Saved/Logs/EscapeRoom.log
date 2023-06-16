@@ -1274,3 +1274,1456 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.06.16-18.00.48:604][822]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A002700000AB88A01_1784242280
 [2023.06.16-18.00.48:609][823]LogAutomationController: Ignoring very large delta of 2.13 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.06.16-18.00.51:021][ 97]LogUObjectHash: Compacting FUObjectHashTables data took   1.05ms
+[2023.06.16-18.02.13:208][900]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2023.06.16-18.02.13:210][900]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.037
+[2023.06.16-18.02.13:210][900]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/BP/Inventario/TemplatePickup] ([2] browsable assets)...
+[2023.06.16-18.02.13:210][900]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Inventario/TemplatePickup]
+[2023.06.16-18.02.13:237][900]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/Inventario/TemplatePickup_Auto1
+[2023.06.16-18.02.13:237][900]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/TemplatePickup_Auto10D5FE8774F01E10E70095DAFFB6CECE7.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/BP/Inventario/TemplatePickup_Auto1.uasset'
+[2023.06.16-18.02.13:238][900]LogFileHelpers: Auto-saving content packages took 0.028
+[2023.06.16-18.04.40:843][173]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.16-18.04.40:843][173]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.16-18.04.45:036][665]LogSlate: Took 0.006280 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2023.06.16-18.04.51:667][449]LogTexture: Display: Building textures: /Game/Assets_Map/UI_Art/Inventario/HUD_Arrow_USE.HUD_Arrow_USE (BGRA8, 250x60 x1x1x1) (Required Memory Estimate: 0.50119 MB), EncodeSpeed: Fast
+[2023.06.16-18.04.55:305][861]BlueprintLog: New page: Compile WB_GameHUD
+[2023.06.16-18.04.55:388][861]LogUObjectHash: Compacting FUObjectHashTables data took   1.08ms
+[2023.06.16-18.04.55:492][861]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.16-18.04.55:573][861]LogSavePackage: Moving output files for package: /Game/BP/Inventario/UMG/WB_GameHUD
+[2023.06.16-18.04.55:573][861]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/WB_GameHUD0FE8F7BD4ED6B7565532E59434FC5974.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/BP/Inventario/UMG/WB_GameHUD.uasset'
+[2023.06.16-18.04.55:579][861]LogFileHelpers: InternalPromptForCheckoutAndSave took 87 ms (total: 475 ms)
+[2023.06.16-18.04.55:592][861]AssetCheck: New page: Asset Save: WB_GameHUD
+[2023.06.16-18.04.55:592][861]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BP/Inventario/UMG/WB_GameHUD.WB_GameHUD
+[2023.06.16-18.04.56:743][994]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.06.16-18.04.56:749][994]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.06.16-18.04.56:756][994]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.16-18.04.56:756][994]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.16-18.04.56:756][994]LogWorldPartition: Display: GetPartitionedActors took 20 us
+[2023.06.16-18.04.56:758][994]LogWorldPartition: Display: GenerateStreaming took 1 ms
+[2023.06.16-18.04.56:779][994]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.16-18.04.56:779][994]PIE: New page: PIE session: FirstPersonMap (16 jun. 2023 22:04:56)
+[2023.06.16-18.04.56:781][994]LogOnline: OSS: Created online subsystem instance for: NULL
+[2023.06.16-18.04.56:781][994]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2023.06.16-18.04.56:783][994]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.06.16-18.04.56:810][994]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027412s)
+[2023.06.16-18.04.56:810][994]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.027701s)
+[2023.06.16-18.04.56:810][994]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.16-18.04.56:810][994]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.06.16-18.04.56:811][994]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.06.16-18.04.56:811][994]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.16-18.04.56:811][994]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.16-18.04.56:818][994]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.06.16-18.04.56:818][994]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 1.65 sec)
+[2023.06.16-18.04.56:818][994]LogPlayLevel: PIE: World Init took: (0.008328s)
+[2023.06.16-18.04.56:853][994]LogUObjectHash: Compacting FUObjectHashTables data took   1.18ms
+[2023.06.16-18.04.56:855][994]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2023.06.16-18.04.56:855][994]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.16-18.04.56:855][994]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.16-18.04.56:855][994]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.16-18.04.56:855][994]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.16-18.04.56:855][994]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.16-18.04.56:855][994]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.16-18.04.56:855][994]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.16-18.04.56:855][994]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.16-18.04.56:856][994]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.16-18.04.56:856][994]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.16-18.04.56:856][994]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.16-18.04.56:857][994]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.16-18.04.56:869][994]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (High Definition Audio Device)
+[2023.06.16-18.04.56:869][994]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.16-18.04.56:869][994]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.16-18.04.56:869][994]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.16-18.04.56:870][994]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=2
+[2023.06.16-18.04.56:870][994]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=2
+[2023.06.16-18.04.56:871][994]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=2
+[2023.06.16-18.04.56:871][994]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=2
+[2023.06.16-18.04.56:871][994]LogInit: FAudioDevice initialized.
+[2023.06.16-18.04.56:871][994]LogAudio: Display: Audio Device (ID: 2) registered with world 'FirstPersonMap'.
+[2023.06.16-18.04.56:918][994]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-18.04.56:918][994]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.06.16-18.04.56:934][994]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.06.16-20.04.56
+[2023.06.16-18.04.56:935][994]LogWorld: Bringing up level for play took: 0.016300
+[2023.06.16-18.04.56:937][994]LogOnline: OSS: Created online subsystem instance for: :Context_5
+[2023.06.16-18.04.56:938][994]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.16-18.04.56:948][994]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-477.801 Y=1746.225 Z=136.737
+[2023.06.16-18.04.56:950][994]LogScript: Warning: Accessed None trying to read property Pocion1
+	BP_cauldron_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_cauldron_C_UAID_0A002700000A227D01_1500972305
+	Function /Game/BP/Caldero/BP_cauldron.BP_cauldron_C:ExecuteUbergraph_BP_cauldron:0B0E
+[2023.06.16-18.04.56:950][994]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Pocion1". Node:  Disable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Cauldron Blueprint:  BP_cauldron
+[2023.06.16-18.04.56:950][994]LogScript: Warning: Accessed None trying to read property Potion2
+	BP_cauldron_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_cauldron_C_UAID_0A002700000A227D01_1500972305
+	Function /Game/BP/Caldero/BP_cauldron.BP_cauldron_C:ExecuteUbergraph_BP_cauldron:0B35
+[2023.06.16-18.04.56:950][994]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Potion2". Node:  Disable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Cauldron Blueprint:  BP_cauldron
+[2023.06.16-18.04.56:950][994]LogScript: Warning: Accessed None trying to read property Potion3
+	BP_cauldron_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_cauldron_C_UAID_0A002700000A227D01_1500972305
+	Function /Game/BP/Caldero/BP_cauldron.BP_cauldron_C:ExecuteUbergraph_BP_cauldron:0B5C
+[2023.06.16-18.04.56:950][994]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Potion3". Node:  Disable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Cauldron Blueprint:  BP_cauldron
+[2023.06.16-18.04.56:953][994]LogScript: Warning: Script Msg: The widget 'WB_GameHUD_C_0' was already added to the screen.
+[2023.06.16-18.04.56:953][994]LogScript: Warning: Last function called:
+	/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C.ExecuteUbergraph_BP_FirstPersonCharacter
+
+[2023.06.16-18.04.56:954][994]PIE: Server logged in
+[2023.06.16-18.04.56:955][994]PIE: Play in editor total start time 0,206 seconds.
+[2023.06.16-18.04.56:958][994]LogBlueprintUserMessages: [BP_ingredient_C_0] H
+[2023.06.16-18.04.56:959][994]LogBlueprintUserMessages: [BP_ingredient_C_1] L
+[2023.06.16-18.04.56:959][994]LogBlueprintUserMessages: [BP_ingredient_C_2] R
+[2023.06.16-18.04.56:971][994]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: ================================================
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Total job queries 790, among them cache hits 171 (21.65%)
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Tracking 619 distinct input hashes that result in 207 distinct outputs (33.44%)
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: RAM used: 4.92 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.60%
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Shaders Compiled: 15
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Jobs assigned 15, completed 15 (100.00%)
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Average time worker was idle: 0.00 s
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Time job spent in pending queue: average 0.40 s, longest 0.87 s
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Job execution time: average 0.87 s, max 1.22 s
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Job life time (pending + execution): average 1.28 s, max 2.07
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 2.45 s
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Jobs were issued in 15 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Average processing rate: 6.12 jobs/sec
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Total thread time: 9.92 s
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Total thread preprocess time: 0.46 s
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Percentage time preprocessing: 4.68%
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Effective parallelization: 4.05 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.08 sec, max 1.10 sec, min 1.06 sec)
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.74 sec, max 0.76 sec, min 0.72 sec)
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.71 sec, max 0.72 sec, min 0.69 sec)
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.50 sec, max 0.68 sec, min 0.35 sec)
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    3 times, average 0.28 sec, max 0.36 sec, min 0.23 sec)
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 32.75% of total time (compiled    3 times, average 1.08 sec, max 1.10 sec, min 1.06 sec)
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 22.36% of total time (compiled    3 times, average 0.74 sec, max 0.76 sec, min 0.72 sec)
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 21.37% of total time (compiled    3 times, average 0.71 sec, max 0.72 sec, min 0.69 sec)
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display:                                                 FLumenCardVS - 15.08% of total time (compiled    3 times, average 0.50 sec, max 0.68 sec, min 0.35 sec)
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.43% of total time (compiled    3 times, average 0.28 sec, max 0.36 sec, min 0.23 sec)
+[2023.06.16-18.04.57:229][995]LogShaderCompilers: Display: ================================================
+[2023.06.16-18.04.57:916][ 26]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.16-18.04.57:916][ 26]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.16-18.04.57:916][ 26]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.16-18.04.58:280][ 43]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.06.16-18.04.58:280][ 43]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.06.16-18.05.03:370][271]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.16-18.05.03:370][271]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.06.16-18.05.07:424][456]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-18.05.07:424][456]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.06.16-18.05.07:425][456]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.16-18.05.07:431][456]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-18.05.07:437][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.05.07:437][456]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.06.16-18.05.07:440][456]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.16-18.05.07:445][456]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.05.07:489][456]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.16-18.05.07:490][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.06.16-18.05.07:491][456]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=2
+[2023.06.16-18.05.07:510][456]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2023.06.16-18.05.07:644][457]LogPlayLevel: Display: Destroying online subsystem :Context_5
+[2023.06.16-18.05.09:038][597]LogSlate: Window 'Message Log' being destroyed
+[2023.06.16-18.05.09:044][597]LogSlate: Window 'Message Log' being destroyed
+[2023.06.16-18.05.39:649][ 51]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.16-18.05.47:926][  1]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.16-18.05.57:695][ 97]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.16-18.06.04:344][826]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.16-18.06.05:989][ 12]BlueprintLog: New page: Compile WB_GameHUD
+[2023.06.16-18.06.06:058][ 12]LogUObjectHash: Compacting FUObjectHashTables data took   1.44ms
+[2023.06.16-18.06.06:158][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.16-18.06.06:248][ 12]LogSavePackage: Moving output files for package: /Game/BP/Inventario/UMG/WB_GameHUD
+[2023.06.16-18.06.06:248][ 12]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/WB_GameHUD9E206C3F4C0D02665326A3A6585FEA04.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/BP/Inventario/UMG/WB_GameHUD.uasset'
+[2023.06.16-18.06.06:254][ 12]LogFileHelpers: InternalPromptForCheckoutAndSave took 95 ms (total: 571 ms)
+[2023.06.16-18.06.06:266][ 12]AssetCheck: New page: Asset Save: WB_GameHUD
+[2023.06.16-18.06.06:266][ 12]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BP/Inventario/UMG/WB_GameHUD.WB_GameHUD
+[2023.06.16-18.06.08:311][245]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.06.16-18.06.08:316][245]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.06.16-18.06.08:324][245]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.16-18.06.08:324][245]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.16-18.06.08:324][245]LogWorldPartition: Display: GetPartitionedActors took 14 us (total: 34 us)
+[2023.06.16-18.06.08:326][245]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 3 ms)
+[2023.06.16-18.06.08:326][245]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.16-18.06.08:326][245]PIE: New page: PIE session: FirstPersonMap (16 jun. 2023 22:06:08)
+[2023.06.16-18.06.08:326][245]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.06.16-18.06.08:353][245]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026769s)
+[2023.06.16-18.06.08:353][245]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.026792s)
+[2023.06.16-18.06.08:353][245]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.16-18.06.08:353][245]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.06.16-18.06.08:354][245]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.06.16-18.06.08:354][245]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.16-18.06.08:354][245]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.16-18.06.08:361][245]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.06.16-18.06.08:361][245]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 1.66 sec)
+[2023.06.16-18.06.08:361][245]LogPlayLevel: PIE: World Init took: (0.008129s)
+[2023.06.16-18.06.08:402][245]LogUObjectHash: Compacting FUObjectHashTables data took   1.30ms
+[2023.06.16-18.06.08:404][245]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2023.06.16-18.06.08:404][245]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.16-18.06.08:404][245]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.16-18.06.08:404][245]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.16-18.06.08:404][245]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.16-18.06.08:404][245]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.16-18.06.08:404][245]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.16-18.06.08:404][245]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.16-18.06.08:404][245]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.16-18.06.08:404][245]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.16-18.06.08:404][245]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.16-18.06.08:404][245]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.16-18.06.08:405][245]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.16-18.06.08:417][245]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (High Definition Audio Device)
+[2023.06.16-18.06.08:417][245]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.16-18.06.08:417][245]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.16-18.06.08:417][245]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.16-18.06.08:417][245]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=3
+[2023.06.16-18.06.08:417][245]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=3
+[2023.06.16-18.06.08:419][245]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=3
+[2023.06.16-18.06.08:419][245]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=3
+[2023.06.16-18.06.08:419][245]LogInit: FAudioDevice initialized.
+[2023.06.16-18.06.08:419][245]LogAudio: Display: Audio Device (ID: 3) registered with world 'FirstPersonMap'.
+[2023.06.16-18.06.08:478][245]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-18.06.08:478][245]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.06.16-18.06.08:496][245]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.06.16-20.06.08
+[2023.06.16-18.06.08:496][245]LogWorld: Bringing up level for play took: 0.017183
+[2023.06.16-18.06.08:498][245]LogOnline: OSS: Created online subsystem instance for: :Context_6
+[2023.06.16-18.06.08:498][245]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2023.06.16-18.06.08:499][245]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-477.801 Y=1746.225 Z=136.737
+[2023.06.16-18.06.08:500][245]LogScript: Warning: Accessed None trying to read property Pocion1
+	BP_cauldron_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_cauldron_C_UAID_0A002700000A227D01_1500972305
+	Function /Game/BP/Caldero/BP_cauldron.BP_cauldron_C:ExecuteUbergraph_BP_cauldron:0B0E
+[2023.06.16-18.06.08:500][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Pocion1". Node:  Disable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Cauldron Blueprint:  BP_cauldron
+[2023.06.16-18.06.08:500][245]LogScript: Warning: Accessed None trying to read property Potion2
+	BP_cauldron_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_cauldron_C_UAID_0A002700000A227D01_1500972305
+	Function /Game/BP/Caldero/BP_cauldron.BP_cauldron_C:ExecuteUbergraph_BP_cauldron:0B35
+[2023.06.16-18.06.08:500][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Potion2". Node:  Disable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Cauldron Blueprint:  BP_cauldron
+[2023.06.16-18.06.08:500][245]LogScript: Warning: Accessed None trying to read property Potion3
+	BP_cauldron_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_cauldron_C_UAID_0A002700000A227D01_1500972305
+	Function /Game/BP/Caldero/BP_cauldron.BP_cauldron_C:ExecuteUbergraph_BP_cauldron:0B5C
+[2023.06.16-18.06.08:500][245]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Potion3". Node:  Disable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Cauldron Blueprint:  BP_cauldron
+[2023.06.16-18.06.08:502][245]LogScript: Warning: Script Msg: The widget 'WB_GameHUD_C_0' was already added to the screen.
+[2023.06.16-18.06.08:502][245]LogScript: Warning: Last function called:
+	/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C.ExecuteUbergraph_BP_FirstPersonCharacter
+
+[2023.06.16-18.06.08:503][245]PIE: Server logged in
+[2023.06.16-18.06.08:504][245]PIE: Play in editor total start time 0,187 seconds.
+[2023.06.16-18.06.08:505][245]LogBlueprintUserMessages: [BP_ingredient_C_0] H
+[2023.06.16-18.06.08:505][245]LogBlueprintUserMessages: [BP_ingredient_C_1] L
+[2023.06.16-18.06.08:505][245]LogBlueprintUserMessages: [BP_ingredient_C_2] R
+[2023.06.16-18.06.08:518][245]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.06.16-18.06.14:895][526]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.16-18.06.14:895][526]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.16-18.06.14:895][526]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.16-18.06.22:138][869]LogUObjectHash: Compacting FUObjectHashTables data took   0.94ms
+[2023.06.16-18.06.23:359][929]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.06.16-18.06.23:359][929]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.06.16-18.06.28:499][164]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.16-18.06.28:499][164]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.06.16-18.06.28:901][182]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.06.16-18.06.28:901][182]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.06.16-18.06.29:525][210]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.16-18.06.29:525][210]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.06.16-18.06.29:815][223]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.06.16-18.06.29:815][223]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.06.16-18.06.30:214][241]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.16-18.06.30:214][241]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.06.16-18.06.31:244][286]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-18.06.31:244][286]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.06.16-18.06.31:244][286]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.16-18.06.31:252][286]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-18.06.31:253][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.06.31:254][286]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.06.16-18.06.31:255][286]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.16-18.06.31:264][286]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.06.31:304][286]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.16-18.06.31:306][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.06.16-18.06.31:307][286]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=3
+[2023.06.16-18.06.31:317][286]LogUObjectHash: Compacting FUObjectHashTables data took   1.58ms
+[2023.06.16-18.06.31:459][287]LogPlayLevel: Display: Destroying online subsystem :Context_6
+[2023.06.16-18.06.32:520][387]LogSlate: Window 'Message Log' being destroyed
+[2023.06.16-18.06.32:526][387]LogSlate: Window 'Message Log' being destroyed
+[2023.06.16-18.12.47:217][765]LogUObjectHash: Compacting FUObjectHashTables data took   1.85ms
+[2023.06.16-18.12.47:221][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/ZK/ZHQPU7JBAX2U6WEV22DLMG_Auto2
+[2023.06.16-18.12.47:221][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/ZHQPU7JBAX2U6WEV22DLMG_Auto2426BD70B4797374E0B3FBF86C78800FA.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/ZK/ZHQPU7JBAX2U6WEV22DLMG_Auto2.uasset'
+[2023.06.16-18.12.47:223][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2X/I2HSMZ8GQ6H32E4NVEWF2T_Auto2
+[2023.06.16-18.12.47:223][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/I2HSMZ8GQ6H32E4NVEWF2T_Auto22ED569FD444642A3DFC9B5A336A123C3.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2X/I2HSMZ8GQ6H32E4NVEWF2T_Auto2.uasset'
+[2023.06.16-18.12.47:225][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7D/FRCY6PDA4Y2K0OT8VBN4D8_Auto2
+[2023.06.16-18.12.47:225][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/FRCY6PDA4Y2K0OT8VBN4D8_Auto21EAC79124E030032E1D3058668D77142.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7D/FRCY6PDA4Y2K0OT8VBN4D8_Auto2.uasset'
+[2023.06.16-18.12.47:226][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/GR/RO09SB07GYG6XU4CHEJAAD_Auto2
+[2023.06.16-18.12.47:226][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/RO09SB07GYG6XU4CHEJAAD_Auto27B9F92C64FC0174B6E28DF81363BB448.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/GR/RO09SB07GYG6XU4CHEJAAD_Auto2.uasset'
+[2023.06.16-18.12.47:232][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/SK/CGXNXZ0XUTIVNT6GWCW1RB_Auto2
+[2023.06.16-18.12.47:232][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/CGXNXZ0XUTIVNT6GWCW1RB_Auto2840B709D435A76294971F39D9BE34848.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/SK/CGXNXZ0XUTIVNT6GWCW1RB_Auto2.uasset'
+[2023.06.16-18.12.47:239][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/9R/DSPVBZFI12IWKEU63AKEMJ_Auto2
+[2023.06.16-18.12.47:239][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/DSPVBZFI12IWKEU63AKEMJ_Auto2648A5DA647D844E24A4C8798B51A65B3.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/9R/DSPVBZFI12IWKEU63AKEMJ_Auto2.uasset'
+[2023.06.16-18.12.47:241][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/09/Q123DLUH8EIRJT4VPDT0SQ_Auto2
+[2023.06.16-18.12.47:241][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Q123DLUH8EIRJT4VPDT0SQ_Auto2F09F981F4FE15EC49DC654AA67161E43.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/09/Q123DLUH8EIRJT4VPDT0SQ_Auto2.uasset'
+[2023.06.16-18.12.47:243][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/UU/4TS5V3UIMBUQ3T367YUUGT_Auto2
+[2023.06.16-18.12.47:243][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/4TS5V3UIMBUQ3T367YUUGT_Auto2C9DAEF034032E1F24F755D9BE5183E57.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/UU/4TS5V3UIMBUQ3T367YUUGT_Auto2.uasset'
+[2023.06.16-18.12.47:244][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/PF/BKNMUEGDNZVH89H6EUSCJE_Auto2
+[2023.06.16-18.12.47:244][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/BKNMUEGDNZVH89H6EUSCJE_Auto230E293D148DD7476B2C7CDB28D133BD9.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/PF/BKNMUEGDNZVH89H6EUSCJE_Auto2.uasset'
+[2023.06.16-18.12.47:251][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/AH/XZHMGNM9MZR1EE4TJY5TU5_Auto2
+[2023.06.16-18.12.47:251][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/XZHMGNM9MZR1EE4TJY5TU5_Auto2C3A20E964A2A5440195B91B897B3DAF9.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/AH/XZHMGNM9MZR1EE4TJY5TU5_Auto2.uasset'
+[2023.06.16-18.12.47:253][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PN/VWI67ON8BWSW5KMO973X4I_Auto2
+[2023.06.16-18.12.47:253][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/VWI67ON8BWSW5KMO973X4I_Auto24ED852A146BE83A044E7269EB954A338.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PN/VWI67ON8BWSW5KMO973X4I_Auto2.uasset'
+[2023.06.16-18.12.47:256][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/SF/MMPS6WAFKGAV0BO9GH38AE_Auto2
+[2023.06.16-18.12.47:256][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/MMPS6WAFKGAV0BO9GH38AE_Auto252B21EDF4C3A2EF0544D569DCA060271.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/SF/MMPS6WAFKGAV0BO9GH38AE_Auto2.uasset'
+[2023.06.16-18.12.47:258][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/KZ/OLZNB6IUYA5KJVCJ1TMMAW_Auto2
+[2023.06.16-18.12.47:258][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/OLZNB6IUYA5KJVCJ1TMMAW_Auto29EE1E944449CF9D3F8CAA79C7E971092.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/KZ/OLZNB6IUYA5KJVCJ1TMMAW_Auto2.uasset'
+[2023.06.16-18.12.47:259][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/M6/02CQG7W1WMU0545AUM0BOJ_Auto2
+[2023.06.16-18.12.47:259][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/02CQG7W1WMU0545AUM0BOJ_Auto2092B9DAB49B8E7F37A1387AEEA796455.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/M6/02CQG7W1WMU0545AUM0BOJ_Auto2.uasset'
+[2023.06.16-18.12.47:261][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/LO/TAUDSTVYBVMD7O695WPEWE_Auto2
+[2023.06.16-18.12.47:261][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/TAUDSTVYBVMD7O695WPEWE_Auto2612396774B6243A8F69057AD8DF30686.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/LO/TAUDSTVYBVMD7O695WPEWE_Auto2.uasset'
+[2023.06.16-18.12.47:264][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/UM/ZLCWC1HI3THMDKV9PDOSYT_Auto2
+[2023.06.16-18.12.47:264][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/ZLCWC1HI3THMDKV9PDOSYT_Auto24C2389AD4B4F9B1FB10F72ABDFF78E7E.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/UM/ZLCWC1HI3THMDKV9PDOSYT_Auto2.uasset'
+[2023.06.16-18.12.47:265][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/3M/4SSET3HSB9PK0MC7M1BMQE_Auto2
+[2023.06.16-18.12.47:265][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/4SSET3HSB9PK0MC7M1BMQE_Auto28D05432F4ABC9DC3F1070DA8A592F377.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/3M/4SSET3HSB9PK0MC7M1BMQE_Auto2.uasset'
+[2023.06.16-18.12.47:267][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/BQ/NVAANZBCBZL87W7KEPT7KC_Auto2
+[2023.06.16-18.12.47:267][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/NVAANZBCBZL87W7KEPT7KC_Auto263CA514348DB1051A09AC4B38E6AAB80.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/BQ/NVAANZBCBZL87W7KEPT7KC_Auto2.uasset'
+[2023.06.16-18.12.47:268][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/ZI/AV9PLBQKHMDZ82ZTH8CQNQ_Auto2
+[2023.06.16-18.12.47:268][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/AV9PLBQKHMDZ82ZTH8CQNQ_Auto2E5BB49D940F564295896229308C8F5F5.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/ZI/AV9PLBQKHMDZ82ZTH8CQNQ_Auto2.uasset'
+[2023.06.16-18.12.47:270][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/P8/4ZUFEBI2YA3WWKSHGU8CGO_Auto2
+[2023.06.16-18.12.47:271][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/4ZUFEBI2YA3WWKSHGU8CGO_Auto2CA83054F4CF7182641A5CF8D01E83929.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/P8/4ZUFEBI2YA3WWKSHGU8CGO_Auto2.uasset'
+[2023.06.16-18.12.47:272][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XV/BZYI2A6PQRVLY7GGZOHCDW_Auto2
+[2023.06.16-18.12.47:272][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/BZYI2A6PQRVLY7GGZOHCDW_Auto239FC45234BA939C56FBA908D962EB245.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XV/BZYI2A6PQRVLY7GGZOHCDW_Auto2.uasset'
+[2023.06.16-18.12.47:273][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/SS/NUZXNA6SN14W5DU3QKBCNT_Auto2
+[2023.06.16-18.12.47:273][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/NUZXNA6SN14W5DU3QKBCNT_Auto2E844BD3E4A5A6B6D73DEA69C15E7F2CA.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/SS/NUZXNA6SN14W5DU3QKBCNT_Auto2.uasset'
+[2023.06.16-18.12.47:274][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/1U/H8INA6CG0UGAFBVI6ER6M4_Auto2
+[2023.06.16-18.12.47:274][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/H8INA6CG0UGAFBVI6ER6M4_Auto21BD89F984290725342303690EB09D95B.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/1U/H8INA6CG0UGAFBVI6ER6M4_Auto2.uasset'
+[2023.06.16-18.12.47:277][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/FI/JINPAOUEKYVRKURRAY11Y6_Auto2
+[2023.06.16-18.12.47:277][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/JINPAOUEKYVRKURRAY11Y6_Auto29CB55DB34ED6A7DEED9BE79056FAD32F.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/FI/JINPAOUEKYVRKURRAY11Y6_Auto2.uasset'
+[2023.06.16-18.12.47:289][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/K3/U6K0LFMRBANVRPPF38W66I_Auto2
+[2023.06.16-18.12.47:289][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/U6K0LFMRBANVRPPF38W66I_Auto2F887B5C54221D52D450CFAB50FB4F838.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/K3/U6K0LFMRBANVRPPF38W66I_Auto2.uasset'
+[2023.06.16-18.12.47:291][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/S2/9OZZ5QVMMU7NPFHHC1AO8I_Auto2
+[2023.06.16-18.12.47:291][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/9OZZ5QVMMU7NPFHHC1AO8I_Auto20B7251D542136D888F9165856ED3BD66.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/S2/9OZZ5QVMMU7NPFHHC1AO8I_Auto2.uasset'
+[2023.06.16-18.12.47:298][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/50/74M9I7PJZKVP69DY1TNEAK_Auto2
+[2023.06.16-18.12.47:298][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/74M9I7PJZKVP69DY1TNEAK_Auto2A0E4D9B04E7912EB64CFE48AE6AE4CE4.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/50/74M9I7PJZKVP69DY1TNEAK_Auto2.uasset'
+[2023.06.16-18.12.47:300][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/C3/1RRT97LTJ3ZFPUHXEGARZU_Auto2
+[2023.06.16-18.12.47:300][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/1RRT97LTJ3ZFPUHXEGARZU_Auto27D25732E4E91511319788DB7062F636E.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/C3/1RRT97LTJ3ZFPUHXEGARZU_Auto2.uasset'
+[2023.06.16-18.12.47:301][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/MC/RZ8111DVO9C13K8GRKAM7E_Auto2
+[2023.06.16-18.12.47:301][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/RZ8111DVO9C13K8GRKAM7E_Auto2F473DFE24954343295B09AB9CA4FDD4B.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/MC/RZ8111DVO9C13K8GRKAM7E_Auto2.uasset'
+[2023.06.16-18.12.47:303][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/O7/SNNGCDI9NOD7SMEDPBICSP_Auto2
+[2023.06.16-18.12.47:303][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/SNNGCDI9NOD7SMEDPBICSP_Auto21D829CF445387759E43024B139A8B15C.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/O7/SNNGCDI9NOD7SMEDPBICSP_Auto2.uasset'
+[2023.06.16-18.12.47:305][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/PX/SLSHBDRJDZX7VUZ1E2W4XZ_Auto2
+[2023.06.16-18.12.47:305][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/SLSHBDRJDZX7VUZ1E2W4XZ_Auto22792B2294956D6635C6161819B377ED7.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/PX/SLSHBDRJDZX7VUZ1E2W4XZ_Auto2.uasset'
+[2023.06.16-18.12.47:307][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MW/L8D5HP4ZEA2T4AS04S0ABS_Auto2
+[2023.06.16-18.12.47:308][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/L8D5HP4ZEA2T4AS04S0ABS_Auto2915600B04AD12DD7EDDEF0B10CC6B444.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MW/L8D5HP4ZEA2T4AS04S0ABS_Auto2.uasset'
+[2023.06.16-18.12.47:309][765]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/FirstPerson/Maps/FirstPersonMap' took 0.138
+[2023.06.16-18.12.47:309][765]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.138
+[2023.06.16-18.12.47:309][765]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP/Inventario/TemplatePickup] ([2] browsable assets)...
+[2023.06.16-18.12.47:379][765]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP/Inventario/TemplatePickup.TemplatePickup]
+[2023.06.16-18.12.47:379][765]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP/Inventario/TemplatePickup]
+[2023.06.16-18.12.47:412][765]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/BP/Inventario/TemplatePickup_Auto2
+[2023.06.16-18.12.47:412][765]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/TemplatePickup_Auto20343DD754B6DEB7F8D651A95EEA65CF7.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Autosaves/Game/BP/Inventario/TemplatePickup_Auto2.uasset'
+[2023.06.16-18.12.47:413][765]LogFileHelpers: Auto-saving content packages took 0.105
+[2023.06.16-18.13.45:853][497]LogInterchangeEngine: [Pending] Importing
+[2023.06.16-18.13.45:899][498]LogCore: PNG has complex alpha channel, will not fill RGB in transparent background
+[2023.06.16-18.13.45:900][498]LogInterchangeEngine: [Pending] Importing
+[2023.06.16-18.13.46:159][498]LogTexture: Display: Building textures: /Game/BP/Inventario/cursor.cursor (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.06.16-18.13.46:174][498]LogInterchangeEngine: [Success] Import Done
+[2023.06.16-18.13.46:226][499]LogInterchangeEngine: [Success] Import Done
+[2023.06.16-18.13.53:167][821]LogAssetEditorSubsystem: Opening Asset editor for Texture2D /Game/BP/Inventario/cursor.cursor
+[2023.06.16-18.13.53:544][821]LogViewport: Scene viewport resized to 1424x890, mode Windowed.
+[2023.06.16-18.13.55:334][919]LogSlate: Window 'cursor' being destroyed
+[2023.06.16-18.14.18:982][299]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.16-18.14.18:982][299]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.16-18.14.18:982][299]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.16-18.14.21:165][299]LogSlate: Window 'Pick Root Widget for New Widget Blueprint' being destroyed
+[2023.06.16-18.14.21:173][299]LogContentBrowser: Deferred new asset file creation: NewWidgetBlueprint
+[2023.06.16-18.14.21:179][299]LogContentBrowser: Creating deferred item: NewWidgetBlueprint
+[2023.06.16-18.14.21:184][300]LogAutomationController: Ignoring very large delta of 2.23 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
+[2023.06.16-18.14.21:190][300]LogContentBrowser: Renaming the item being created (Deferred Item: NewWidgetBlueprint).
+[2023.06.16-18.14.29:026][698]LogContentBrowser: Attempting asset rename: NewWidgetBlueprint -> WB_Cursor
+[2023.06.16-18.14.29:031][698]LogContentBrowser: End creating deferred item NewWidgetBlueprint
+[2023.06.16-18.14.29:410][718]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/BP/Inventario/UMG/WB_Cursor.WB_Cursor
+[2023.06.16-18.14.29:411][718]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.16-18.14.29:432][718]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.16-18.14.29:831][718]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.16-18.14.29:831][718]LogSlateStyle: Warning: Unable to find Slate Widget Style 'None'. Using FToolbarStyle defaults instead.
+[2023.06.16-18.15.27:945][372]BlueprintLog: New page: Compile WB_Cursor
+[2023.06.16-18.15.28:050][372]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2023.06.16-18.15.28:085][372]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.16-18.15.28:145][372]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Inventario/UMG/WB_Cursor" FILE="../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/BP/Inventario/UMG/WB_Cursor.uasset" SILENT=true
+[2023.06.16-18.15.28:147][372]LogSavePackage: Moving output files for package: /Game/BP/Inventario/UMG/WB_Cursor
+[2023.06.16-18.15.28:147][372]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/WB_CursorF922A0C447F1EB3DD2F29799E14D811B.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/BP/Inventario/UMG/WB_Cursor.uasset'
+[2023.06.16-18.15.28:154][372]LogFileHelpers: InternalPromptForCheckoutAndSave took 68 ms (total: 640 ms)
+[2023.06.16-18.15.28:166][372]AssetCheck: New page: Asset Save: WB_Cursor
+[2023.06.16-18.15.28:166][372]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BP/Inventario/UMG/WB_Cursor.WB_Cursor
+[2023.06.16-18.15.28:742][400]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.16-18.15.28:782][400]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Inventario/UMG/WB_Cursor" FILE="../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/BP/Inventario/UMG/WB_Cursor.uasset" SILENT=true
+[2023.06.16-18.15.28:784][400]LogSavePackage: Moving output files for package: /Game/BP/Inventario/UMG/WB_Cursor
+[2023.06.16-18.15.28:784][400]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/WB_CursorFCEE68A9489AA41952F996AF5DDA3FED.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/BP/Inventario/UMG/WB_Cursor.uasset'
+[2023.06.16-18.15.28:790][400]LogFileHelpers: InternalPromptForCheckoutAndSave took 48 ms (total: 688 ms)
+[2023.06.16-18.15.28:796][400]AssetCheck: New page: Asset Save: WB_Cursor
+[2023.06.16-18.15.28:796][400]LogContentValidation: Display: Validating /Script/UMGEditor.WidgetBlueprint /Game/BP/Inventario/UMG/WB_Cursor.WB_Cursor
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: ================================================
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Total job queries 796, among them cache hits 171 (21.48%)
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Tracking 620 distinct input hashes that result in 208 distinct outputs (33.55%)
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: RAM used: 4.92 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.60%
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Shaders Compiled: 16
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Jobs assigned 21, completed 16 (76.19%)
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Average time worker was idle: 926.72 s
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Time job spent in pending queue: average 0.29 s, longest 0.87 s
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Job execution time: average 0.85 s, max 1.22 s
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Job life time (pending + execution): average 1.23 s, max 2.07
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 3.00 s
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Jobs were issued in 21 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Average processing rate: 5.34 jobs/sec
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Total thread time: 10.23 s
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Total thread preprocess time: 0.49 s
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Percentage time preprocessing: 4.80%
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Effective parallelization: 3.41 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    3 times, average 1.08 sec, max 1.10 sec, min 1.06 sec)
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    3 times, average 0.74 sec, max 0.76 sec, min 0.72 sec)
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    3 times, average 0.71 sec, max 0.72 sec, min 0.69 sec)
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display:                                                 FLumenCardVS (compiled    3 times, average 0.50 sec, max 0.68 sec, min 0.35 sec)
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display:                                          FLumenCardPS<false> (compiled    4 times, average 0.29 sec, max 0.36 sec, min 0.23 sec)
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 31.75% of total time (compiled    3 times, average 1.08 sec, max 1.10 sec, min 1.06 sec)
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 21.68% of total time (compiled    3 times, average 0.74 sec, max 0.76 sec, min 0.72 sec)
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 20.72% of total time (compiled    3 times, average 0.71 sec, max 0.72 sec, min 0.69 sec)
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.62% of total time (compiled    3 times, average 0.50 sec, max 0.68 sec, min 0.35 sec)
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 11.23% of total time (compiled    4 times, average 0.29 sec, max 0.36 sec, min 0.23 sec)
+[2023.06.16-18.15.38:091][904]LogShaderCompilers: Display: ================================================
+[2023.06.16-18.15.39:038][947]LogD3D12RHI: Creating RTPSO with 225 shaders (0 cached, 1 new) took 97.28 ms. Compile time 94.60 ms, link time 2.62 ms.
+[2023.06.16-18.15.39:206][948]LogD3D12RHI: Creating RTPSO with 226 shaders (1 cached, 1 new) took 99.41 ms. Compile time 95.02 ms, link time 4.33 ms.
+[2023.06.16-18.15.41:240][ 40]LogD3D12RHI: Creating RTPSO with 227 shaders (0 cached, 1 new) took 108.20 ms. Compile time 106.29 ms, link time 1.85 ms.
+[2023.06.16-18.15.41:345][ 41]LogD3D12RHI: Creating RTPSO with 228 shaders (1 cached, 1 new) took 75.10 ms. Compile time 72.86 ms, link time 2.16 ms.
+[2023.06.16-18.16.08:576][236]LogEditorClassViewer: Warning: Class /Script/InteractiveToolsFramework.GizmoActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.16-18.16.08:576][236]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewGeometryActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.16-18.16.08:576][236]LogEditorClassViewer: Warning: Class /Script/ModelingComponents.PreviewMeshActor has parent /Script/InteractiveToolsFramework.InternalToolFrameworkActor, but this parent is not found. The Class will not be shown in ClassViewer.
+[2023.06.16-18.16.22:067][157]LogSlate: Window 'Project Settings' being destroyed
+[2023.06.16-18.16.22:074][157]LogSlate: Window 'Project Settings' being destroyed
+[2023.06.16-18.16.23:133][209]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.06.16-18.16.23:140][209]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.06.16-18.16.23:148][209]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.16-18.16.23:148][209]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.16-18.16.23:148][209]LogWorldPartition: Display: GetPartitionedActors took 18 us (total: 52 us)
+[2023.06.16-18.16.23:150][209]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 5 ms)
+[2023.06.16-18.16.23:150][209]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.16-18.16.23:150][209]PIE: New page: PIE session: FirstPersonMap (16 jun. 2023 22:16:23)
+[2023.06.16-18.16.23:150][209]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.06.16-18.16.23:179][209]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028266s)
+[2023.06.16-18.16.23:179][209]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.028293s)
+[2023.06.16-18.16.23:179][209]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.16-18.16.23:179][209]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.06.16-18.16.23:180][209]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.06.16-18.16.23:180][209]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.16-18.16.23:180][209]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.16-18.16.23:186][209]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.06.16-18.16.23:187][209]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 1.67 sec)
+[2023.06.16-18.16.23:187][209]LogPlayLevel: PIE: World Init took: (0.008573s)
+[2023.06.16-18.16.23:276][209]LogUObjectHash: Compacting FUObjectHashTables data took   2.06ms
+[2023.06.16-18.16.23:282][209]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2023.06.16-18.16.23:282][209]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.16-18.16.23:282][209]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.16-18.16.23:282][209]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.16-18.16.23:282][209]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.16-18.16.23:282][209]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.16-18.16.23:282][209]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.16-18.16.23:282][209]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.16-18.16.23:282][209]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.16-18.16.23:282][209]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.16-18.16.23:282][209]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.16-18.16.23:282][209]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.16-18.16.23:284][209]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.16-18.16.23:294][209]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (High Definition Audio Device)
+[2023.06.16-18.16.23:294][209]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.16-18.16.23:294][209]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.16-18.16.23:294][209]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.16-18.16.23:295][209]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=4
+[2023.06.16-18.16.23:295][209]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=4
+[2023.06.16-18.16.23:296][209]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=4
+[2023.06.16-18.16.23:296][209]LogInit: FAudioDevice initialized.
+[2023.06.16-18.16.23:296][209]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=4
+[2023.06.16-18.16.23:296][209]LogAudio: Display: Audio Device (ID: 4) registered with world 'FirstPersonMap'.
+[2023.06.16-18.16.23:353][209]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-18.16.23:354][209]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.06.16-18.16.23:366][209]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.06.16-20.16.23
+[2023.06.16-18.16.23:367][209]LogWorld: Bringing up level for play took: 0.012923
+[2023.06.16-18.16.23:368][209]LogOnline: OSS: Created online subsystem instance for: :Context_10
+[2023.06.16-18.16.23:369][209]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-477.801 Y=1746.225 Z=136.737
+[2023.06.16-18.16.23:370][209]LogScript: Warning: Accessed None trying to read property Pocion1
+	BP_cauldron_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_cauldron_C_UAID_0A002700000A227D01_1500972305
+	Function /Game/BP/Caldero/BP_cauldron.BP_cauldron_C:ExecuteUbergraph_BP_cauldron:0B0E
+[2023.06.16-18.16.23:370][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Pocion1". Node:  Disable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Cauldron Blueprint:  BP_cauldron
+[2023.06.16-18.16.23:370][209]LogScript: Warning: Accessed None trying to read property Potion2
+	BP_cauldron_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_cauldron_C_UAID_0A002700000A227D01_1500972305
+	Function /Game/BP/Caldero/BP_cauldron.BP_cauldron_C:ExecuteUbergraph_BP_cauldron:0B35
+[2023.06.16-18.16.23:370][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Potion2". Node:  Disable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Cauldron Blueprint:  BP_cauldron
+[2023.06.16-18.16.23:370][209]LogScript: Warning: Accessed None trying to read property Potion3
+	BP_cauldron_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_cauldron_C_UAID_0A002700000A227D01_1500972305
+	Function /Game/BP/Caldero/BP_cauldron.BP_cauldron_C:ExecuteUbergraph_BP_cauldron:0B5C
+[2023.06.16-18.16.23:370][209]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Potion3". Node:  Disable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Cauldron Blueprint:  BP_cauldron
+[2023.06.16-18.16.23:373][209]LogScript: Warning: Script Msg: The widget 'WB_GameHUD_C_0' was already added to the screen.
+[2023.06.16-18.16.23:373][209]LogScript: Warning: Last function called:
+	/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C.ExecuteUbergraph_BP_FirstPersonCharacter
+
+[2023.06.16-18.16.23:376][209]PIE: Server logged in
+[2023.06.16-18.16.23:377][209]PIE: Play in editor total start time 0,237 seconds.
+[2023.06.16-18.16.23:378][209]LogBlueprintUserMessages: [BP_ingredient_C_0] H
+[2023.06.16-18.16.23:379][209]LogBlueprintUserMessages: [BP_ingredient_C_1] L
+[2023.06.16-18.16.23:379][209]LogBlueprintUserMessages: [BP_ingredient_C_2] R
+[2023.06.16-18.16.23:404][209]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.06.16-18.16.24:761][264]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.16-18.16.24:761][264]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.16-18.16.24:761][264]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.16-18.16.26:675][345]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.06.16-18.16.26:675][345]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.06.16-18.16.27:974][397]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-18.16.27:974][397]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.06.16-18.16.27:974][397]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.16-18.16.27:984][397]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-18.16.27:986][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.16.27:986][397]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.06.16-18.16.27:989][397]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.16-18.16.27:996][397]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.16.28:044][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.06.16-18.16.28:045][397]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=4
+[2023.06.16-18.16.28:059][397]LogUObjectHash: Compacting FUObjectHashTables data took   1.74ms
+[2023.06.16-18.16.28:180][398]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2023.06.16-18.16.31:295][436]LogSlate: Window 'Message Log' being destroyed
+[2023.06.16-18.16.31:300][436]LogSlate: Window 'Message Log' being destroyed
+[2023.06.16-18.18.16:853][ 92]LogInterchangeEngine: [Pending] Importing
+[2023.06.16-18.18.16:863][ 92]LogCore: PNG has binary transparency, doing fill of RGB in transparent background
+[2023.06.16-18.18.16:897][ 93]LogTexture: Display: Building textures: /Game/BP/Inventario/cursor.cursor (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.06.16-18.18.16:913][ 93]LogInterchangeEngine: [Success] Import Done
+[2023.06.16-18.18.16:928][ 93]LogInterchangeEngine: [Success] Import Done
+[2023.06.16-18.18.19:146][196]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.06.16-18.18.19:153][196]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.06.16-18.18.19:161][196]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.16-18.18.19:161][196]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.16-18.18.19:161][196]LogWorldPartition: Display: GetPartitionedActors took 13 us (total: 66 us)
+[2023.06.16-18.18.19:163][196]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 7 ms)
+[2023.06.16-18.18.19:164][196]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.16-18.18.19:164][196]PIE: New page: PIE session: FirstPersonMap (16 jun. 2023 22:18:19)
+[2023.06.16-18.18.19:164][196]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.06.16-18.18.19:191][196]LogPlayLevel: PIE: StaticDuplicateObject took: (0.026819s)
+[2023.06.16-18.18.19:191][196]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.026844s)
+[2023.06.16-18.18.19:191][196]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.16-18.18.19:191][196]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.06.16-18.18.19:191][196]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.06.16-18.18.19:191][196]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.16-18.18.19:191][196]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.16-18.18.19:198][196]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.06.16-18.18.19:198][196]LogWorldPartition: Display: WorldPartition initialize took 6 ms (total: 1.67 sec)
+[2023.06.16-18.18.19:198][196]LogPlayLevel: PIE: World Init took: (0.008339s)
+[2023.06.16-18.18.19:243][196]LogUObjectHash: Compacting FUObjectHashTables data took   1.84ms
+[2023.06.16-18.18.19:245][196]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2023.06.16-18.18.19:245][196]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.16-18.18.19:245][196]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.16-18.18.19:245][196]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.16-18.18.19:246][196]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.16-18.18.19:246][196]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.16-18.18.19:246][196]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.16-18.18.19:246][196]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.16-18.18.19:246][196]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.16-18.18.19:246][196]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.16-18.18.19:246][196]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.16-18.18.19:246][196]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.16-18.18.19:247][196]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.16-18.18.19:259][196]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (High Definition Audio Device)
+[2023.06.16-18.18.19:260][196]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.16-18.18.19:260][196]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.16-18.18.19:260][196]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.16-18.18.19:260][196]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=5
+[2023.06.16-18.18.19:260][196]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=5
+[2023.06.16-18.18.19:261][196]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=5
+[2023.06.16-18.18.19:261][196]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=5
+[2023.06.16-18.18.19:261][196]LogInit: FAudioDevice initialized.
+[2023.06.16-18.18.19:261][196]LogAudio: Display: Audio Device (ID: 5) registered with world 'FirstPersonMap'.
+[2023.06.16-18.18.19:326][196]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-18.18.19:326][196]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.06.16-18.18.19:339][196]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.06.16-20.18.19
+[2023.06.16-18.18.19:339][196]LogWorld: Bringing up level for play took: 0.013600
+[2023.06.16-18.18.19:342][196]LogOnline: OSS: Created online subsystem instance for: :Context_11
+[2023.06.16-18.18.19:342][196]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-477.801 Y=1746.225 Z=136.737
+[2023.06.16-18.18.19:343][196]LogScript: Warning: Accessed None trying to read property Pocion1
+	BP_cauldron_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_cauldron_C_UAID_0A002700000A227D01_1500972305
+	Function /Game/BP/Caldero/BP_cauldron.BP_cauldron_C:ExecuteUbergraph_BP_cauldron:0B0E
+[2023.06.16-18.18.19:344][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Pocion1". Node:  Disable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Cauldron Blueprint:  BP_cauldron
+[2023.06.16-18.18.19:344][196]LogScript: Warning: Accessed None trying to read property Potion2
+	BP_cauldron_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_cauldron_C_UAID_0A002700000A227D01_1500972305
+	Function /Game/BP/Caldero/BP_cauldron.BP_cauldron_C:ExecuteUbergraph_BP_cauldron:0B35
+[2023.06.16-18.18.19:344][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Potion2". Node:  Disable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Cauldron Blueprint:  BP_cauldron
+[2023.06.16-18.18.19:344][196]LogScript: Warning: Accessed None trying to read property Potion3
+	BP_cauldron_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_cauldron_C_UAID_0A002700000A227D01_1500972305
+	Function /Game/BP/Caldero/BP_cauldron.BP_cauldron_C:ExecuteUbergraph_BP_cauldron:0B5C
+[2023.06.16-18.18.19:344][196]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Potion3". Node:  Disable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Cauldron Blueprint:  BP_cauldron
+[2023.06.16-18.18.19:346][196]LogScript: Warning: Script Msg: The widget 'WB_GameHUD_C_0' was already added to the screen.
+[2023.06.16-18.18.19:346][196]LogScript: Warning: Last function called:
+	/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C.ExecuteUbergraph_BP_FirstPersonCharacter
+
+[2023.06.16-18.18.19:348][196]PIE: Server logged in
+[2023.06.16-18.18.19:350][196]PIE: Play in editor total start time 0,197 seconds.
+[2023.06.16-18.18.19:388][196]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.06.16-18.18.19:402][197]LogBlueprintUserMessages: [BP_ingredient_C_0] H
+[2023.06.16-18.18.19:403][197]LogBlueprintUserMessages: [BP_ingredient_C_1] L
+[2023.06.16-18.18.19:403][197]LogBlueprintUserMessages: [BP_ingredient_C_2] R
+[2023.06.16-18.18.20:313][235]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.16-18.18.20:313][235]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.16-18.18.20:313][235]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.16-18.18.25:040][441]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.06.16-18.18.25:040][441]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.06.16-18.18.26:002][483]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.16-18.18.26:002][483]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.06.16-18.18.29:353][631]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.06.16-18.18.29:354][631]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.06.16-18.18.31:144][707]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-18.18.31:144][707]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.06.16-18.18.31:145][707]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.16-18.18.31:153][707]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-18.18.31:155][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.18.31:155][707]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.06.16-18.18.31:157][707]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.16-18.18.31:167][707]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.18.31:215][707]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.16-18.18.31:216][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.06.16-18.18.31:217][707]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=5
+[2023.06.16-18.18.31:226][707]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2023.06.16-18.18.31:375][708]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2023.06.16-18.18.32:909][780]LogSlate: Window 'Message Log' being destroyed
+[2023.06.16-18.18.32:917][780]LogSlate: Window 'Message Log' being destroyed
+[2023.06.16-18.18.36:768][978]LogSlate: Window 'Color Picker' being destroyed
+[2023.06.16-18.19.17:452][554]LogInterchangeEngine: [Pending] Importing
+[2023.06.16-18.19.17:455][554]LogCore: PNG has binary transparency, doing fill of RGB in transparent background
+[2023.06.16-18.19.17:498][555]LogTexture: Display: Building textures: /Game/BP/Inventario/cursor.cursor (TFO_AutoDXT, 512x512 x1x1x1) (Required Memory Estimate: 45.145823 MB), EncodeSpeed: Fast
+[2023.06.16-18.19.17:523][555]LogInterchangeEngine: [Success] Import Done
+[2023.06.16-18.19.17:543][555]LogInterchangeEngine: [Success] Import Done
+[2023.06.16-18.19.37:212][551]LogDebuggerCommands: Repeating last play command: New Editor Window (PIE)
+[2023.06.16-18.19.37:220][551]LogContentBundle: [Container: FirstPersonMap] Generating Streaming for 0 Content Bundles.
+[2023.06.16-18.19.37:228][551]LogWorldPartition: Display: GenerateStreaming started...
+[2023.06.16-18.19.37:228][551]LogWorldPartition: Display: GetPartitionedActors started...
+[2023.06.16-18.19.37:228][551]LogWorldPartition: Display: GetPartitionedActors took 13 us (total: 80 us)
+[2023.06.16-18.19.37:230][551]LogWorldPartition: Display: GenerateStreaming took 1 ms (total: 9 ms)
+[2023.06.16-18.19.37:230][551]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.06.16-18.19.37:230][551]PIE: New page: PIE session: FirstPersonMap (16 jun. 2023 22:19:37)
+[2023.06.16-18.19.37:230][551]LogPlayLevel: Creating play world package: /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.06.16-18.19.37:257][551]LogPlayLevel: PIE: StaticDuplicateObject took: (0.027558s)
+[2023.06.16-18.19.37:257][551]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap to /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap (0.027583s)
+[2023.06.16-18.19.37:257][551]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2023.06.16-18.19.37:258][551]LogAIModule: Creating AISystem for world FirstPersonMap
+[2023.06.16-18.19.37:258][551]LogWorldPartition: ULevel::OnLevelLoaded(FirstPersonMap)(bIsOwningWorldGameWorld=1, bIsOwningWorldPartitioned=1, bIsValidLevelInstance=0, InitializeForMainWorld=1, InitializeForEditor=0, InitializeForGame=0)
+[2023.06.16-18.19.37:258][551]LogWorldPartition: Display: WorldPartition initialize started...
+[2023.06.16-18.19.37:258][551]LogWorldPartition: UWorldPartition::Initialize(Asset=FirstPersonMap, IsEditor=0, bPIEWorldTravel=0 IsGame=0, IsCooking=0)
+[2023.06.16-18.19.37:266][551]LogContentBundle: [Container: FirstPersonMap] Creating new contrainer.
+[2023.06.16-18.19.37:266][551]LogWorldPartition: Display: WorldPartition initialize took 7 ms (total: 1.68 sec)
+[2023.06.16-18.19.37:266][551]LogPlayLevel: PIE: World Init took: (0.008802s)
+[2023.06.16-18.19.37:316][551]LogUObjectHash: Compacting FUObjectHashTables data took   1.79ms
+[2023.06.16-18.19.37:320][551]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2023.06.16-18.19.37:320][551]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.06.16-18.19.37:320][551]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.06.16-18.19.37:320][551]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2023.06.16-18.19.37:320][551]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2023.06.16-18.19.37:320][551]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2023.06.16-18.19.37:320][551]LogAudioMixer: Display: 	Max Channels (voices):				  0
+[2023.06.16-18.19.37:320][551]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.06.16-18.19.37:320][551]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.06.16-18.19.37:320][551]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.06.16-18.19.37:320][551]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.06.16-18.19.37:320][551]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.06.16-18.19.37:322][551]LogAudioMixer: Display: Initializing audio mixer using platform API: 'XAudio2'
+[2023.06.16-18.19.37:333][551]LogAudioMixer: Display: Using Audio Hardware Device Altavoces (High Definition Audio Device)
+[2023.06.16-18.19.37:334][551]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.06.16-18.19.37:334][551]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.06.16-18.19.37:334][551]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.06.16-18.19.37:334][551]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called. InstanceID=6
+[2023.06.16-18.19.37:334][551]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048, InstanceID=6
+[2023.06.16-18.19.37:335][551]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal(), InstanceID=6
+[2023.06.16-18.19.37:335][551]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time. InstanceID=6
+[2023.06.16-18.19.37:335][551]LogInit: FAudioDevice initialized.
+[2023.06.16-18.19.37:335][551]LogAudio: Display: Audio Device (ID: 6) registered with world 'FirstPersonMap'.
+[2023.06.16-18.19.37:390][551]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-18.19.37:390][551]LogLoad: Game class is 'BP_FirstPersonGameMode_C'
+[2023.06.16-18.19.37:400][551]LogWorld: Bringing World /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap up for play (max tick rate 0) at 2023.06.16-20.19.37
+[2023.06.16-18.19.37:402][551]LogWorld: Bringing up level for play took: 0.012362
+[2023.06.16-18.19.37:403][551]LogOnline: OSS: Created online subsystem instance for: :Context_12
+[2023.06.16-18.19.37:404][551]LogWorldPartition: New Streaming Source: PlayerController_0 -> Position: X=-477.801 Y=1746.225 Z=136.737
+[2023.06.16-18.19.37:405][551]LogScript: Warning: Accessed None trying to read property Pocion1
+	BP_cauldron_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_cauldron_C_UAID_0A002700000A227D01_1500972305
+	Function /Game/BP/Caldero/BP_cauldron.BP_cauldron_C:ExecuteUbergraph_BP_cauldron:0B0E
+[2023.06.16-18.19.37:405][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Pocion1". Node:  Disable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Cauldron Blueprint:  BP_cauldron
+[2023.06.16-18.19.37:405][551]LogScript: Warning: Accessed None trying to read property Potion2
+	BP_cauldron_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_cauldron_C_UAID_0A002700000A227D01_1500972305
+	Function /Game/BP/Caldero/BP_cauldron.BP_cauldron_C:ExecuteUbergraph_BP_cauldron:0B35
+[2023.06.16-18.19.37:405][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Potion2". Node:  Disable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Cauldron Blueprint:  BP_cauldron
+[2023.06.16-18.19.37:405][551]LogScript: Warning: Accessed None trying to read property Potion3
+	BP_cauldron_C /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap.FirstPersonMap:PersistentLevel.BP_cauldron_C_UAID_0A002700000A227D01_1500972305
+	Function /Game/BP/Caldero/BP_cauldron.BP_cauldron_C:ExecuteUbergraph_BP_cauldron:0B5C
+[2023.06.16-18.19.37:405][551]PIE: Error: Blueprint Runtime Error: "Accessed None trying to read property Potion3". Node:  Disable Collision Graph:  EventGraph Function:  Execute Ubergraph BP Cauldron Blueprint:  BP_cauldron
+[2023.06.16-18.19.37:407][551]LogScript: Warning: Script Msg: The widget 'WB_GameHUD_C_0' was already added to the screen.
+[2023.06.16-18.19.37:408][551]LogScript: Warning: Last function called:
+	/Game/FirstPerson/Blueprints/BP_FirstPersonCharacter.BP_FirstPersonCharacter_C.ExecuteUbergraph_BP_FirstPersonCharacter
+
+[2023.06.16-18.19.37:410][551]PIE: Server logged in
+[2023.06.16-18.19.37:412][551]PIE: Play in editor total start time 0,192 seconds.
+[2023.06.16-18.19.37:414][551]LogBlueprintUserMessages: [BP_ingredient_C_0] H
+[2023.06.16-18.19.37:414][551]LogBlueprintUserMessages: [BP_ingredient_C_1] L
+[2023.06.16-18.19.37:414][551]LogBlueprintUserMessages: [BP_ingredient_C_2] R
+[2023.06.16-18.19.37:457][551]LogViewport: Scene viewport resized to 1914x992, mode Windowed.
+[2023.06.16-18.19.38:967][613]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.16-18.19.38:967][613]LogViewport: Display: Viewport HideCursorDuringCapture Changed, False -> True
+[2023.06.16-18.19.38:967][613]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> CaptureDuringMouseDown
+[2023.06.16-18.19.40:640][682]LogViewport: Display: Viewport MouseLockMode Changed, DoNotLock -> LockOnCapture
+[2023.06.16-18.19.40:640][682]LogViewport: Display: Viewport MouseCaptureMode Changed, CaptureDuringMouseDown -> CapturePermanently
+[2023.06.16-18.19.41:767][729]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.06.16-18.19.41:768][729]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently -> CaptureDuringMouseDown
+[2023.06.16-18.19.42:883][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.06.16-18.19.42:883][774]LogWorld: BeginTearingDown for /Game/FirstPerson/Maps/UEDPIE_0_FirstPersonMap
+[2023.06.16-18.19.42:883][774]LogSlate: Window 'EscapeRoom Preview [NetMode: Standalone 0]  (64-bit/D3D Shader Model 6)' being destroyed
+[2023.06.16-18.19.42:889][774]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-18.19.42:894][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.19.42:894][774]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.06.16-18.19.42:895][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.06.16-18.19.42:902][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.19.42:952][774]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.06.16-18.19.42:952][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.06.16-18.19.42:954][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=6
+[2023.06.16-18.19.42:963][774]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.06.16-18.19.43:081][775]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2023.06.16-18.19.44:258][827]LogSlate: Window 'Message Log' being destroyed
+[2023.06.16-18.19.44:267][827]LogSlate: Window 'Message Log' being destroyed
+[2023.06.16-18.19.48:162][108]LogSlate: Window 'WB_Cursor' being destroyed
+[2023.06.16-18.19.50:781][284]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2023.06.16-18.19.51:812][284]LogSlate: Window 'Save Content' being destroyed
+[2023.06.16-18.20.22:902][831]LogInterchangeEngine: [Pending] Importing
+[2023.06.16-18.20.22:902][831]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.06.16-18.20.22:902][831]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.06.16-18.20.22:914][832]LogInterchangeImport: JPEG file [C:/Users/sirag/Downloads/spr_Green.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2023.06.16-18.20.22:914][832]LogInterchangeImport: JPEG file [C:/Users/sirag/Downloads/spr_Blue.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2023.06.16-18.20.22:914][832]LogInterchangeImport: JPEG file [C:/Users/sirag/Downloads/spr_Red.jpg]: Pipeline setting 'bPreferCompressedSourceData' has been overridden by Editor setting 'RetainJpegFormat'
+[2023.06.16-18.20.22:921][832]LogTexture: Display: Building textures: /Game/Assets_Map/UI_Art/Inventario/spr_Green.spr_Green (BGRA8, 1464x709 x1x1x1) (Required Memory Estimate: 30.419159 MB), EncodeSpeed: Fast
+[2023.06.16-18.20.22:922][832]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.06.16-18.20.22:922][832]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.06.16-18.20.22:923][832]LogTexture: Display: Building textures: /Game/Assets_Map/UI_Art/Inventario/spr_Blue.spr_Blue (BGRA8, 1464x709 x1x1x1) (Required Memory Estimate: 30.419159 MB), EncodeSpeed: Fast
+[2023.06.16-18.20.22:926][832]LogTexture: Display: Building textures: /Game/Assets_Map/UI_Art/Inventario/spr_Red.spr_Red (BGRA8, 1464x709 x1x1x1) (Required Memory Estimate: 30.419159 MB), EncodeSpeed: Fast
+[2023.06.16-18.20.22:952][832]LogInterchangeEngine: [Success] Import Done
+[2023.06.16-18.20.23:069][832]LogInterchangeEngine: [Success] Import Done
+[2023.06.16-18.20.28:083][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.68ms
+[2023.06.16-18.20.29:352][995]LogSlate: Window 'Delete Assets' being destroyed
+[2023.06.16-18.20.29:422][995]LogUObjectHash: Compacting FUObjectHashTables data took   1.57ms
+[2023.06.16-18.20.29:475][995]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2023.06.16-18.20.29:520][995]LogUObjectHash: Compacting FUObjectHashTables data took   0.67ms
+[2023.06.16-18.20.36:894][ 63]LogInterchangeEngine: [Pending] Importing
+[2023.06.16-18.20.36:894][ 63]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.06.16-18.20.36:895][ 63]LogInterchangeEngine: [Pending] Importing -  (3)
+[2023.06.16-18.20.36:895][ 63]LogCore: PNG has binary transparency, doing fill of RGB in transparent background
+[2023.06.16-18.20.36:895][ 63]LogCore: PNG has binary transparency, doing fill of RGB in transparent background
+[2023.06.16-18.20.36:895][ 63]LogCore: PNG has binary transparency, doing fill of RGB in transparent background
+[2023.06.16-18.20.36:897][ 63]LogTexture: Display: Building textures: /Game/Assets_Map/UI_Art/Inventario/p_red.p_red (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 0.22392 MB), EncodeSpeed: Fast
+[2023.06.16-18.20.36:899][ 63]LogTexture: Display: Building textures: /Game/Assets_Map/UI_Art/Inventario/p_blue.p_blue (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 0.22392 MB), EncodeSpeed: Fast
+[2023.06.16-18.20.36:902][ 63]LogTexture: Display: Building textures: /Game/Assets_Map/UI_Art/Inventario/p_green.p_green (TFO_AutoDXT, 32x32 x1x1x1) (Required Memory Estimate: 0.22392 MB), EncodeSpeed: Fast
+[2023.06.16-18.20.36:902][ 63]LogInterchangeEngine: [Pending] Importing -  (2)
+[2023.06.16-18.20.36:902][ 63]LogInterchangeEngine: [Pending] Importing -  (1)
+[2023.06.16-18.20.36:929][ 63]LogInterchangeEngine: [Success] Import Done
+[2023.06.16-18.20.36:964][ 64]LogInterchangeEngine: [Success] Import Done
+[2023.06.16-18.20.52:096][ 15]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2023.06.16-18.20.52:103][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.06.16-18.20.52:179][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/ZK/ZHQPU7JBAX2U6WEV22DLMG
+[2023.06.16-18.20.52:179][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/ZHQPU7JBAX2U6WEV22DLMG428EBF6D49AAF1018783D58AAF7E6212.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/ZK/ZHQPU7JBAX2U6WEV22DLMG.uasset'
+[2023.06.16-18.20.52:180][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2X/I2HSMZ8GQ6H32E4NVEWF2T
+[2023.06.16-18.20.52:182][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/I2HSMZ8GQ6H32E4NVEWF2T27F5A7DB49960351CFD7168532EFEBCC.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/2X/I2HSMZ8GQ6H32E4NVEWF2T.uasset'
+[2023.06.16-18.20.52:184][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7D/FRCY6PDA4Y2K0OT8VBN4D8
+[2023.06.16-18.20.52:184][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/FRCY6PDA4Y2K0OT8VBN4D86FF5E6194F832AA6BAC7D49CB3BE22B3.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/7D/FRCY6PDA4Y2K0OT8VBN4D8.uasset'
+[2023.06.16-18.20.52:185][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/GR/RO09SB07GYG6XU4CHEJAAD
+[2023.06.16-18.20.52:186][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/RO09SB07GYG6XU4CHEJAADB0B288D440B1522BAE483A800BD98CCE.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/GR/RO09SB07GYG6XU4CHEJAAD.uasset'
+[2023.06.16-18.20.52:187][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/SK/CGXNXZ0XUTIVNT6GWCW1RB
+[2023.06.16-18.20.52:187][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/CGXNXZ0XUTIVNT6GWCW1RBC368D6A84293B5F8D313F0923A0FA9E1.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/6/SK/CGXNXZ0XUTIVNT6GWCW1RB.uasset'
+[2023.06.16-18.20.52:189][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/9R/DSPVBZFI12IWKEU63AKEMJ
+[2023.06.16-18.20.52:189][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/DSPVBZFI12IWKEU63AKEMJ1623595445D9736EB8C0B0A8B9A5DEF0.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/9R/DSPVBZFI12IWKEU63AKEMJ.uasset'
+[2023.06.16-18.20.52:191][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/09/Q123DLUH8EIRJT4VPDT0SQ
+[2023.06.16-18.20.52:191][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/Q123DLUH8EIRJT4VPDT0SQ0E3C2F334B4AA1D1DC4A5E84FE7A06D5.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/09/Q123DLUH8EIRJT4VPDT0SQ.uasset'
+[2023.06.16-18.20.52:192][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/UU/4TS5V3UIMBUQ3T367YUUGT
+[2023.06.16-18.20.52:192][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/4TS5V3UIMBUQ3T367YUUGT0F7708A544F311106845B7BBEF772CA1.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/7/UU/4TS5V3UIMBUQ3T367YUUGT.uasset'
+[2023.06.16-18.20.52:195][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/PF/BKNMUEGDNZVH89H6EUSCJE
+[2023.06.16-18.20.52:195][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/BKNMUEGDNZVH89H6EUSCJEA9F463CB460D54760EAD43A6AB656F4A.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/3/PF/BKNMUEGDNZVH89H6EUSCJE.uasset'
+[2023.06.16-18.20.52:197][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/AH/XZHMGNM9MZR1EE4TJY5TU5
+[2023.06.16-18.20.52:197][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/XZHMGNM9MZR1EE4TJY5TU536B79AA5438497D17F48BB9DBE0BE45B.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/AH/XZHMGNM9MZR1EE4TJY5TU5.uasset'
+[2023.06.16-18.20.52:199][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PN/VWI67ON8BWSW5KMO973X4I
+[2023.06.16-18.20.52:199][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/VWI67ON8BWSW5KMO973X4I50285F6840D1D49C39398888323C6FFC.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/PN/VWI67ON8BWSW5KMO973X4I.uasset'
+[2023.06.16-18.20.52:201][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/SF/MMPS6WAFKGAV0BO9GH38AE
+[2023.06.16-18.20.52:201][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/MMPS6WAFKGAV0BO9GH38AE814E038E4871C5F3026DC1B29EE7062D.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/0/SF/MMPS6WAFKGAV0BO9GH38AE.uasset'
+[2023.06.16-18.20.52:202][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/KZ/OLZNB6IUYA5KJVCJ1TMMAW
+[2023.06.16-18.20.52:202][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/OLZNB6IUYA5KJVCJ1TMMAWB65960CC4BB284D8833D449CA7B7DA30.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/KZ/OLZNB6IUYA5KJVCJ1TMMAW.uasset'
+[2023.06.16-18.20.52:204][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/M6/02CQG7W1WMU0545AUM0BOJ
+[2023.06.16-18.20.52:204][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/02CQG7W1WMU0545AUM0BOJE327FA4F4BC55BA201D957A2AE8A51EE.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/2/M6/02CQG7W1WMU0545AUM0BOJ.uasset'
+[2023.06.16-18.20.52:206][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/LO/TAUDSTVYBVMD7O695WPEWE
+[2023.06.16-18.20.52:206][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/TAUDSTVYBVMD7O695WPEWE24F3FCB84AB3A6B832E2AA9B339A4DE7.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/LO/TAUDSTVYBVMD7O695WPEWE.uasset'
+[2023.06.16-18.20.52:207][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/UM/ZLCWC1HI3THMDKV9PDOSYT
+[2023.06.16-18.20.52:208][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/ZLCWC1HI3THMDKV9PDOSYTD1FDDF7C4B54E25BEFA03BA6DF421059.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/4/UM/ZLCWC1HI3THMDKV9PDOSYT.uasset'
+[2023.06.16-18.20.52:209][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/3M/4SSET3HSB9PK0MC7M1BMQE
+[2023.06.16-18.20.52:210][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/4SSET3HSB9PK0MC7M1BMQEB38568234B03F2A71F8FE0B2215852FC.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/3M/4SSET3HSB9PK0MC7M1BMQE.uasset'
+[2023.06.16-18.20.52:212][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/BQ/NVAANZBCBZL87W7KEPT7KC
+[2023.06.16-18.20.52:212][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/NVAANZBCBZL87W7KEPT7KC467203AB4AC08A49ABF6A5BBA14A074D.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/BQ/NVAANZBCBZL87W7KEPT7KC.uasset'
+[2023.06.16-18.20.52:214][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/ZI/AV9PLBQKHMDZ82ZTH8CQNQ
+[2023.06.16-18.20.52:214][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/AV9PLBQKHMDZ82ZTH8CQNQC1183C3349DE5193ECF679992E3B0393.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/5/ZI/AV9PLBQKHMDZ82ZTH8CQNQ.uasset'
+[2023.06.16-18.20.52:215][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/P8/4ZUFEBI2YA3WWKSHGU8CGO
+[2023.06.16-18.20.52:216][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/4ZUFEBI2YA3WWKSHGU8CGO1FE7C20A463D0E5E25143398F8AF254F.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/9/P8/4ZUFEBI2YA3WWKSHGU8CGO.uasset'
+[2023.06.16-18.20.52:217][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XV/BZYI2A6PQRVLY7GGZOHCDW
+[2023.06.16-18.20.52:217][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/BZYI2A6PQRVLY7GGZOHCDW509DF7594D35DB9EE99C159D8BB4D493.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/A/XV/BZYI2A6PQRVLY7GGZOHCDW.uasset'
+[2023.06.16-18.20.52:219][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/SS/NUZXNA6SN14W5DU3QKBCNT
+[2023.06.16-18.20.52:219][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/NUZXNA6SN14W5DU3QKBCNT957E4EB94C608F79369E6ABB3BFA54F2.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/B/SS/NUZXNA6SN14W5DU3QKBCNT.uasset'
+[2023.06.16-18.20.52:221][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/1U/H8INA6CG0UGAFBVI6ER6M4
+[2023.06.16-18.20.52:221][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/H8INA6CG0UGAFBVI6ER6M4439A17D8403B2102DDC02D8895318B53.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/1U/H8INA6CG0UGAFBVI6ER6M4.uasset'
+[2023.06.16-18.20.52:222][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/FI/JINPAOUEKYVRKURRAY11Y6
+[2023.06.16-18.20.52:223][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/JINPAOUEKYVRKURRAY11Y683F6873445BDECD0F2258BA51313043C.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/FI/JINPAOUEKYVRKURRAY11Y6.uasset'
+[2023.06.16-18.20.52:224][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/K3/U6K0LFMRBANVRPPF38W66I
+[2023.06.16-18.20.52:224][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/U6K0LFMRBANVRPPF38W66IF7C669B4449C53002BAB4491EFC3575B.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/K3/U6K0LFMRBANVRPPF38W66I.uasset'
+[2023.06.16-18.20.52:226][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/S2/9OZZ5QVMMU7NPFHHC1AO8I
+[2023.06.16-18.20.52:226][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/9OZZ5QVMMU7NPFHHC1AO8IF00FB5684F89AE6CE68D288524B76847.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/C/S2/9OZZ5QVMMU7NPFHHC1AO8I.uasset'
+[2023.06.16-18.20.52:228][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/50/74M9I7PJZKVP69DY1TNEAK
+[2023.06.16-18.20.52:228][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/74M9I7PJZKVP69DY1TNEAK49CDEEBE453C4F21E2E04FA0E6B64E6A.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/50/74M9I7PJZKVP69DY1TNEAK.uasset'
+[2023.06.16-18.20.52:229][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/C3/1RRT97LTJ3ZFPUHXEGARZU
+[2023.06.16-18.20.52:230][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/1RRT97LTJ3ZFPUHXEGARZU922024304CB1CB7313ABACA4B16C1798.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/C3/1RRT97LTJ3ZFPUHXEGARZU.uasset'
+[2023.06.16-18.20.52:232][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/MC/RZ8111DVO9C13K8GRKAM7E
+[2023.06.16-18.20.52:232][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/RZ8111DVO9C13K8GRKAM7E4CE0CDA2462D8462433417A67C4EC2A6.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/MC/RZ8111DVO9C13K8GRKAM7E.uasset'
+[2023.06.16-18.20.52:234][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/O7/SNNGCDI9NOD7SMEDPBICSP
+[2023.06.16-18.20.52:234][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/SNNGCDI9NOD7SMEDPBICSP2ACDC3F143201471C7AECD9B477B95A3.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/O7/SNNGCDI9NOD7SMEDPBICSP.uasset'
+[2023.06.16-18.20.52:236][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/PX/SLSHBDRJDZX7VUZ1E2W4XZ
+[2023.06.16-18.20.52:236][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/SLSHBDRJDZX7VUZ1E2W4XZD3BF13144D01B1B192CD0DB639002063.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/D/PX/SLSHBDRJDZX7VUZ1E2W4XZ.uasset'
+[2023.06.16-18.20.52:238][ 15]LogSavePackage: Moving output files for package: /Game/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MW/L8D5HP4ZEA2T4AS04S0ABS
+[2023.06.16-18.20.52:239][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/L8D5HP4ZEA2T4AS04S0ABS6D8CF5D249DE6E6BD040CF9AB4D5C662.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/__ExternalActors__/FirstPerson/Maps/FirstPersonMap/E/MW/L8D5HP4ZEA2T4AS04S0ABS.uasset'
+[2023.06.16-18.20.52:265][ 15]LogSavePackage: Moving output files for package: /Game/BP/Inventario/TemplatePickup
+[2023.06.16-18.20.52:265][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/TemplatePickup916DC0DA4473BEB5E77D69B0AE2AB2DF.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/BP/Inventario/TemplatePickup.uasset'
+[2023.06.16-18.20.52:268][ 15]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP/Inventario/cursor" FILE="../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/BP/Inventario/cursor.uasset" SILENT=true
+[2023.06.16-18.20.52:275][ 15]LogSavePackage: Moving output files for package: /Game/BP/Inventario/cursor
+[2023.06.16-18.20.52:275][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/cursor15521056469232325F192E9A758373C1.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/BP/Inventario/cursor.uasset'
+[2023.06.16-18.20.52:279][ 15]LogSavePackage: Moving output files for package: /Game/Assets_Map/UI_Art/Inventario/p_red
+[2023.06.16-18.20.52:279][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/p_red90A8414D4BE2A2DD43FF53AADE2015EC.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/Assets_Map/UI_Art/Inventario/p_red.uasset'
+[2023.06.16-18.20.52:282][ 15]LogSavePackage: Moving output files for package: /Game/Assets_Map/UI_Art/Inventario/p_blue
+[2023.06.16-18.20.52:282][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/p_blueEF235A0A41140ACE4EA3B08D23E821A0.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/Assets_Map/UI_Art/Inventario/p_blue.uasset'
+[2023.06.16-18.20.52:285][ 15]LogSavePackage: Moving output files for package: /Game/Assets_Map/UI_Art/Inventario/p_green
+[2023.06.16-18.20.52:285][ 15]LogSavePackage: Moving '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Saved/p_greenF97E842642C9F1E6E9BE339E8518C4EC.tmp' to '../../../../../../Users/sirag/Documents/Unreal Projects/EscapeRoom/EscapeRoom/Content/Assets_Map/UI_Art/Inventario/p_green.uasset'
+[2023.06.16-18.20.52:292][ 15]LogFileHelpers: InternalPromptForCheckoutAndSave took 188 ms (total: 877 ms)
+[2023.06.16-18.20.52:299][ 15]AssetCheck: New page: Asset Save: multiple assets
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Script/Engine.Blueprint /Game/BP/Inventario/TemplatePickup.TemplatePickup
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_5CBAEF9AC951E58C01_1860762309
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A0027000009A38601_1281617366
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A002700000A788901_1910707278
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_D85ED39B9B0F0D8601_1738563993
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_5CBAEF9AC951E78C01_1256744661
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A002700000A258A01_1166261404
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_5CBAEF9AC9523F8601_1411046753
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A002700000A998B01_1727065332
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_5CBAEF9AC951E78C01_1583080662
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A002700000A778901_2140200907
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A00270000093B8B01_2074390334
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_5CBAEF9AC951E78C01_1199447660
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_50EBF6D1764BE68A01_1311456373
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_5CBAEF9AC951E88C01_1269109839
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_5CBAEF9AC951898C01_1177340117
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A002700000AC48901_1464750349
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A0027000009F08A01_1441566132
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A002700000A788901_2039394286
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_5CBAEF9AC951E88C01_1637931840
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A002700000A998B01_1816260335
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_F057A69AE8355E8301_1895211044
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A00270000093D8B01_1683252688
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A002700000A518A01_2132123149
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A002700000AB88A01_1786633281
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A002700000A998B01_1783855333
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_5CBAEF9AC951858C01_1658165414
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A002700000A998B01_1798031334
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A0027000009F38A01_1305557660
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_50EBF6D1764BEE7C01_1254357993
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A002700000A998B01_1611853331
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A002700000A788901_1126942084
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Game/BP/Inventario/TemplatePickup.TemplatePickup_C /Game/FirstPerson/Maps/FirstPersonMap.FirstPersonMap:PersistentLevel.TemplatePickup_C_UAID_0A002700000AB88A01_1784242280
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/BP/Inventario/cursor.cursor
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets_Map/UI_Art/Inventario/p_green.p_green
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets_Map/UI_Art/Inventario/p_blue.p_blue
+[2023.06.16-18.20.52:299][ 15]LogContentValidation: Display: Validating /Script/Engine.Texture2D /Game/Assets_Map/UI_Art/Inventario/p_red.p_red
+[2023.06.16-18.20.53:448][ 68]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2023.06.16-18.20.53:454][ 68]LogStall: Shutdown...
+[2023.06.16-18.20.53:457][ 68]LogStall: Shutdown complete.
+[2023.06.16-18.20.53:496][ 68]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-18.20.53:496][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.20.53:506][ 68]LogWorld: UWorld::CleanupWorld for World_1, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-18.20.53:506][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.20.53:558][ 68]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-18.20.53:558][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.20.53:610][ 68]LogWorld: UWorld::CleanupWorld for World_8, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-18.20.53:610][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.20.53:620][ 68]LogWorld: UWorld::CleanupWorld for World_7, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-18.20.53:620][ 68]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.20.53:663][ 68]LogSlate: Window 'EscapeRoom - Unreal Editor' being destroyed
+[2023.06.16-18.20.53:712][ 69]Cmd: QUIT_EDITOR
+[2023.06.16-18.20.53:712][ 69]LogCore: Engine exit requested (reason: UUnrealEdEngine::CloseEditor())
+[2023.06.16-18.20.53:719][ 69]LogCore: Engine exit requested (reason: EngineExit() was called; note: exit was already requested)
+[2023.06.16-18.20.53:719][ 69]LogStaticMesh: Abandoning remaining async distance field tasks for shutdown
+[2023.06.16-18.20.53:719][ 69]LogStaticMesh: Abandoning remaining async card representation tasks for shutdown
+[2023.06.16-18.20.53:723][ 69]LogWorld: UWorld::CleanupWorld for FirstPersonMap, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-18.20.53:724][ 69]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.06.16-18.20.53:725][ 69]LogContentBundle: [Container: FirstPersonMap] Deleting container.
+[2023.06.16-18.20.53:726][ 69]LogStylusInput: Shutting down StylusInput subsystem.
+[2023.06.16-18.20.53:726][ 69]LogLevelSequenceEditor: LevelSequenceEditor subsystem deinitialized.
+[2023.06.16-18.20.54:877][ 69]LogAudio: Display: Beginning Audio Device Manager Shutdown (Module: AudioMixerXAudio2)...
+[2023.06.16-18.20.54:877][ 69]LogAudio: Display: Destroying 1 Remaining Audio Device(s)...
+[2023.06.16-18.20.54:877][ 69]LogAudio: Display: Audio Device unregistered from world 'FirstPersonMap'.
+[2023.06.16-18.20.54:877][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.06.16-18.20.54:881][ 69]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called. InstanceID=1
+[2023.06.16-18.20.54:885][ 69]LogAudio: Display: Audio Device Manager Shutdown
+[2023.06.16-18.20.54:888][ 69]LogSlate: Slate User Destroyed.  User Index 0, Is Virtual User: 0
+[2023.06.16-18.20.54:888][ 69]LogExit: Preparing to exit.
+[2023.06.16-18.20.55:023][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   2.95ms
+[2023.06.16-18.20.55:041][ 69]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected_options' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:041][ 69]LogPython: Display: Object '/Engine/PythonTypes.add_controls_for_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:044][ 69]LogPython: Display: Object '/Engine/PythonTypes.add_null_above_selected' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:044][ 69]LogPython: Display: Object '/Engine/PythonTypes.align_translation_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:044][ 69]LogPython: Display: Object '/Engine/PythonTypes.align_translation_all' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:044][ 69]LogPython: Display: Object '/Engine/PythonTypes.align_translation_x' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:044][ 69]LogPython: Display: Object '/Engine/PythonTypes.align_translation_y' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:044][ 69]LogPython: Display: Object '/Engine/PythonTypes.align_translation_z' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:044][ 69]LogPython: Display: Object '/Engine/PythonTypes.align_rotation' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:044][ 69]LogPython: Display: Object '/Engine/PythonTypes.align_scale' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:044][ 69]LogPython: Display: Object '/Engine/PythonTypes.search_replace_name_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:044][ 69]LogPython: Display: Object '/Engine/PythonTypes.search_replace_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:044][ 69]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:044][ 69]LogPython: Display: Object '/Engine/PythonTypes.add_prefix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:044][ 69]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:044][ 69]LogPython: Display: Object '/Engine/PythonTypes.add_suffix_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:044][ 69]LogPython: Display: Object '/Engine/PythonTypes.do_rename_dialog' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:044][ 69]LogPython: Display: Object '/Engine/PythonTypes.do_rename_entry' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:045][ 69]LogPython: Display: Object '/Engine/PythonTypes.ControlOutputFormat' was externally referenced when shutting down Python. Forcibly releasing its Python resources!
+[2023.06.16-18.20.55:496][ 69]LogWorld: UWorld::CleanupWorld for World_0, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-18.20.55:500][ 69]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2023.06.16-18.20.55:572][ 69]LogDemo: Cleaned up 0 splitscreen connections, owner deletion: enabled
+[2023.06.16-18.20.55:580][ 69]LogExit: Editor shut down
+[2023.06.16-18.20.55:583][ 69]LogExit: Transaction tracking system shut down
+[2023.06.16-18.20.55:738][ 69]LogExit: Object subsystem successfully closed.
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: ================================================
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Total job queries 810, among them cache hits 171 (21.11%)
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Tracking 639 distinct input hashes that result in 223 distinct outputs (34.90%)
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: RAM used: 5.06 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.62%
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Shaders Compiled: 35
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Jobs assigned 35, completed 35 (100.00%)
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Average time worker was idle: 595.21 s
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Time job spent in pending queue: average 0.29 s, longest 0.87 s
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Job execution time: average 0.81 s, max 1.43 s
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Job life time (pending + execution): average 1.10 s, max 2.07
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 5.82 s
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Jobs were issued in 35 batches (only local compilation was used), average 1.00 jobs/batch
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Average processing rate: 6.01 jobs/sec
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Total thread time: 20.08 s
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Total thread preprocess time: 0.96 s
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Percentage time preprocessing: 4.76%
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Effective parallelization: 3.45 (times faster than compiling all shaders on one thread). Compare with number of workers: 8
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Top 5 most expensive shader types by average time:
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display:                   TMaterialCHSFNoLightMapPolicyFAnyHitShader (compiled    1 times, average 1.36 sec, max 1.36 sec, min 1.36 sec)
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy (compiled    5 times, average 1.09 sec, max 1.11 sec, min 1.06 sec)
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy (compiled    6 times, average 0.67 sec, max 0.76 sec, min 0.55 sec)
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy (compiled    6 times, average 0.62 sec, max 0.72 sec, min 0.52 sec)
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display:             TShadowDepthVSVertexShadowDepth_VirtualShadowMap (compiled    1 times, average 0.53 sec, max 0.53 sec, min 0.53 sec)
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: Top 5 shader types by total compile time:
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display:                                TMaterialCHSFNoLightMapPolicy - 27.09% of total time (compiled    5 times, average 1.09 sec, max 1.11 sec, min 1.06 sec)
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display:                                 TBasePassPSFNoLightMapPolicy - 19.87% of total time (compiled    6 times, average 0.67 sec, max 0.76 sec, min 0.55 sec)
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display:                                 TBasePassVSFNoLightMapPolicy - 18.61% of total time (compiled    6 times, average 0.62 sec, max 0.72 sec, min 0.52 sec)
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display:                                                 FLumenCardVS - 14.61% of total time (compiled    6 times, average 0.49 sec, max 0.68 sec, min 0.35 sec)
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display:                                          FLumenCardPS<false> - 8.72% of total time (compiled    6 times, average 0.29 sec, max 0.36 sec, min 0.23 sec)
+[2023.06.16-18.20.55:743][ 69]LogShaderCompilers: Display: ================================================
+[2023.06.16-18.20.55:843][ 69]LogShaderCompilers: Display: Shaders left to compile 0
+[2023.06.16-18.20.55:855][ 69]LogVirtualization: UE::Virtualization was shutdown
+[2023.06.16-18.20.55:874][ 69]LogModuleManager: Shutting down and abandoning module ExternalImagePicker (1003)
+[2023.06.16-18.20.55:874][ 69]LogModuleManager: Shutting down and abandoning module TextureEditor (1001)
+[2023.06.16-18.20.55:874][ 69]LogModuleManager: Shutting down and abandoning module MovieSceneCapture (999)
+[2023.06.16-18.20.55:874][ 69]LogModuleManager: Shutting down and abandoning module Voice (997)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module SequencerWidgets (995)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module BlueprintGraph (993)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module HierarchicalLODOutliner (991)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module UnsavedAssetsTracker (989)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module SubobjectEditor (987)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module AddContentDialog (985)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module WidgetCarousel (984)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module SceneOutliner (981)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module StatusBar (979)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module GameProjectGeneration (977)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module StatsViewer (975)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module SequenceRecorderSections (973)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module AutomationWorker (971)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module CameraShakePreviewer (969)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module PlanarCut (967)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module CharacterAI (965)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module TemplateSequenceEditor (963)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module LevelSequenceEditor (961)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module ActorSequenceEditor (959)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module TextureAlignMode (957)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module BspMode (955)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module GeometryMode (953)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module WaveTableEditor (951)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module ResonanceAudioEditor (949)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module GooglePADEditor (947)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module AudioCaptureEditor (945)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module AndroidFileServerEditor (943)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module WebMMediaFactory (941)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module WebMMediaEditor (939)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module WebMMedia (937)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module MediaPlayerEditor (935)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module WmfMediaFactory (933)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module WmfMediaEditor (931)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module MediaCompositingEditor (929)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module SequenceRecorder (928)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module OpenExrWrapper (925)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module ImgMediaFactory (923)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module ImgMediaEditor (921)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module AndroidMediaFactory (919)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module AndroidMediaEditor (917)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module AvfMediaFactory (915)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module AvfMediaEditor (913)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module IKRigEditor (911)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module ControlRigEditor (909)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module SmartSnapping (907)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module SessionServices (905)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module MeshPaint (903)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module VirtualTexturingEditor (901)
+[2023.06.16-18.20.55:875][ 69]LogModuleManager: Shutting down and abandoning module PlacementMode (900)
+[2023.06.16-18.20.55:876][ 69]LogModuleManager: Shutting down and abandoning module FoliageEdit (897)
+[2023.06.16-18.20.55:876][ 69]LogModuleManager: Shutting down and abandoning module LandscapeEditor (895)
+[2023.06.16-18.20.55:876][ 69]LogModuleManager: Shutting down and abandoning module SceneDepthPickerMode (893)
+[2023.06.16-18.20.55:876][ 69]LogModuleManager: Shutting down and abandoning module ActorPickerMode (891)
+[2023.06.16-18.20.55:876][ 69]LogModuleManager: Shutting down and abandoning module ViewportSnapping (889)
+[2023.06.16-18.20.55:876][ 69]LogModuleManager: Shutting down and abandoning module ViewportInteraction (887)
+[2023.06.16-18.20.55:876][ 69]LogModuleManager: Shutting down and abandoning module ClothPainter (885)
+[2023.06.16-18.20.55:876][ 69]LogModuleManager: Shutting down and abandoning module SkeletalMeshEditor (884)
+[2023.06.16-18.20.55:876][ 69]LogModuleManager: Shutting down and abandoning module LogVisualizer (881)
+[2023.06.16-18.20.55:876][ 69]LogModuleManager: Shutting down and abandoning module IOSPlatformEditor (879)
+[2023.06.16-18.20.55:876][ 69]LogModuleManager: Shutting down and abandoning module AndroidPlatformEditor (877)
+[2023.06.16-18.20.55:876][ 69]LogModuleManager: Shutting down and abandoning module PIEPreviewDeviceProfileSelector (876)
+[2023.06.16-18.20.55:876][ 69]LogModuleManager: Shutting down and abandoning module AndroidDeviceDetection (874)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module WindowsPlatformEditor (871)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module HoloLensPlatformEditor (869)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module IOSRuntimeSettings (867)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module AndroidRuntimeSettings (865)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module AnimationSettings (863)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module VirtualizationEditor (861)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module CSVtoSVG (859)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module DerivedDataEditor (857)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module EditorConfig (855)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module WorldPartitionEditor (853)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module EditorFramework (851)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module StaticMeshEditor (849)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module TraceInsights (847)
+[2023.06.16-18.20.56:168][ 69]MemoryProfiler: Shutdown
+[2023.06.16-18.20.56:168][ 69]NetworkingProfiler: Shutdown
+[2023.06.16-18.20.56:168][ 69]LoadingProfiler: Shutdown
+[2023.06.16-18.20.56:168][ 69]TimingProfiler: Shutdown
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module TraceServices (846)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module EditorInteractiveToolsFramework (843)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module InteractiveToolsFramework (842)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module InputBindingEditor (839)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module MergeActors (837)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module LocalizationDashboard (835)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module LocalizationService (834)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module HardwareTargeting (831)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module DeviceProfileEditor (829)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module UndoHistory (827)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module XmlParser (825)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module Blutility (823)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module ProjectSettingsViewer (821)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module ProjectTargetPlatformEditor (820)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module EditorSettingsViewer (817)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module InternationalizationSettings (816)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module SettingsEditor (813)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module ProjectLauncher (811)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module SessionFrontend (809)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module ProfilerClient (807)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module DeviceManager (805)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module AutomationController (803)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module AutomationWindow (801)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module Layers (799)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module ComponentVisualizers (797)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module DetailCustomizations (795)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module PackagesDialog (793)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module AnimationBlueprintEditor (791)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module Persona (789)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module AdvancedPreviewScene (788)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module AnimGraph (786)
+[2023.06.16-18.20.56:168][ 69]LogModuleManager: Shutting down and abandoning module Kismet (783)
+[2023.06.16-18.20.56:178][ 69]LogModuleManager: Shutting down and abandoning module KismetWidgets (782)
+[2023.06.16-18.20.56:178][ 69]LogModuleManager: Shutting down and abandoning module GraphEditor (779)
+[2023.06.16-18.20.56:178][ 69]LogModuleManager: Shutting down and abandoning module StructViewer (777)
+[2023.06.16-18.20.56:178][ 69]LogModuleManager: Shutting down and abandoning module ClassViewer (775)
+[2023.06.16-18.20.56:179][ 69]LogModuleManager: Shutting down and abandoning module NaniteTools (773)
+[2023.06.16-18.20.56:179][ 69]LogModuleManager: Shutting down and abandoning module UncontrolledChangelists (771)
+[2023.06.16-18.20.56:179][ 69]LogModuleManager: Shutting down and abandoning module SourceControlWindowExtender (769)
+[2023.06.16-18.20.56:179][ 69]LogModuleManager: Shutting down and abandoning module SourceControlWindows (767)
+[2023.06.16-18.20.56:179][ 69]LogModuleManager: Shutting down and abandoning module OutputLog (765)
+[2023.06.16-18.20.56:179][ 69]LogModuleManager: Shutting down and abandoning module Documentation (763)
+[2023.06.16-18.20.56:180][ 69]LogModuleManager: Shutting down and abandoning module LiveCoding (761)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module MovieSceneTracks (759)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module MovieScene (757)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module StreamingPauseRendering (755)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module BinkAudioDecoder (753)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module AudioMixerXAudio2 (751)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module AudioMixer (750)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module AudioMixerCore (749)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module LauncherPlatform (745)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module AnalyticsET (743)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module PortalServices (741)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module PortalRpc (739)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module MessagingRpc (737)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module AIModule (735)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module GameplayDebugger (734)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module AITestSuite (732)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module NavigationSystem (730)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module DataLayerEditor (727)
+[2023.06.16-18.20.56:189][ 69]LogModuleManager: Shutting down and abandoning module EditorWidgets (726)
+[2023.06.16-18.20.56:190][ 69]LogModuleManager: Shutting down and abandoning module LevelInstanceEditor (723)
+[2023.06.16-18.20.56:190][ 69]LogModuleManager: Shutting down and abandoning module TypedElementRuntime (721)
+[2023.06.16-18.20.56:190][ 69]LogModuleManager: Shutting down and abandoning module TypedElementFramework (719)
+[2023.06.16-18.20.56:190][ 69]LogModuleManager: Shutting down and abandoning module ImageWriteQueue (717)
+[2023.06.16-18.20.56:190][ 69]LogModuleManager: Shutting down and abandoning module ProfilerService (715)
+[2023.06.16-18.20.56:284][ 69]LogModuleManager: Shutting down and abandoning module TaskGraph (713)
+[2023.06.16-18.20.56:284][ 69]LogModuleManager: Shutting down and abandoning module TakeRecorderSources (711)
+[2023.06.16-18.20.56:284][ 69]LogModuleManager: Shutting down and abandoning module TakeTrackRecorders (709)
+[2023.06.16-18.20.56:284][ 69]LogModuleManager: Shutting down and abandoning module TakesCore (707)
+[2023.06.16-18.20.56:284][ 69]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaEditor (705)
+[2023.06.16-18.20.56:284][ 69]LogModuleManager: Shutting down and abandoning module MegascansPlugin (703)
+[2023.06.16-18.20.56:284][ 69]LogModuleManager: Shutting down and abandoning module Bridge (701)
+[2023.06.16-18.20.56:284][ 69]LogModuleManager: Shutting down and abandoning module LightMixer (699)
+[2023.06.16-18.20.56:284][ 69]LogModuleManager: Shutting down and abandoning module ObjectMixerEditor (697)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module ContentBrowserClassDataSource (695)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module ContentBrowserAssetDataSource (693)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module CollectionManager (692)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module ContentBrowserFileDataSource (689)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module UVEditorToolsEditorOnly (687)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module UVEditorTools (685)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module UVEditor (683)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessingEditor (681)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module GeometryFlowMeshProcessing (679)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module GeometryFlowCore (677)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module OpenImageDenoise (675)
+[2023.06.16-18.20.56:285][ 69]LogOpenImageDenoise: OIDN shutting down
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module ModelingEditorUI (673)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module GeometryProcessingAdapters (671)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnlyExp (669)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module MeshModelingToolsExp (667)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module GPULightmassEditor (665)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module MeshLODToolset (663)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module GeometryCollectionNodes (661)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module GeometryCollectionTracks (659)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module GeometryCollectionEngine (658)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module GeometryCollectionSequencer (656)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module GeometryCollectionEditor (653)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module Iris (651)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module DataflowNodes (649)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module DataflowEditor (647)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module ChaosSolverEditor (645)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module FractureEditor (643)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module BackChannel (641)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module ChaosNiagara (639)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module ChaosClothEditor (637)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module ChaosUserDataPT (635)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module AutomationUtilsEditor (633)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module AutomationUtils (631)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module InterchangeTestEditor (629)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module InterchangeTests (627)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module TemplateSequence (625)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module SequencerScriptingEditor (623)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module SequencerScripting (621)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module VariantManager (619)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module VariantManagerContentEditor (618)
+[2023.06.16-18.20.56:285][ 69]LogModuleManager: Shutting down and abandoning module GLTFMaterialBaking (615)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module GLTFMaterialAnalyzer (613)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module MobileLauncherProfileWizard (611)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module DatasmithContentEditor (609)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module WorldPartitionHLODUtilities (607)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module GLTFImporter (605)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module GLTFCore (603)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module ModelingToolsEditorMode (601)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module StylusInput (599)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module PluginBrowser (597)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module SequencerAnimTools (595)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module SpeedTreeImporter (593)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module CryptoKeysOpenSSL (591)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module CryptoKeys (589)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module MaterialAnalyzer (587)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module GitSourceControl (585)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module CurveEditorTools (583)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module EditorScriptingUtilities (581)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module BlueprintHeaderView (579)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module UObjectPlugin (577)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module EditorDebugTools (575)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module VisualStudioCodeSourceCodeAccess (573)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module VisualStudioSourceCodeAccess (571)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module RiderSourceCodeAccess (569)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module SubversionSourceControl (567)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module PlasticSourceControl (565)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module DumpGPUServices (563)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module CLionSourceCodeAccess (561)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module PluginUtils (559)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module AnimationSharingEd (557)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module OodleNetworkHandlerComponent (555)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module TakeSequencer (551)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module TakeMovieScene (549)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module AlembicImporter (547)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module AlembicLibrary (546)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module ResonanceAudio (543)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module SynthesisEditor (541)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponentEditor (539)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module ModelingOperatorsEditorOnly (537)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module ModelingOperators (535)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module ModelingComponentsEditorOnly (533)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module ModelingComponents (531)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module GeometryFramework (530)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module MeshModelingToolsEditorOnly (527)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module MeshModelingTools (525)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module MobilePatchingUtils (523)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module InputDebugging (521)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module GooglePAD (519)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module GeometryCacheTracks (517)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module GeometryCache (515)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module GeometryCacheStreamer (513)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module GeometryCacheSequencer (511)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module GeometryCacheEd (509)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module DynamicMesh (507)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module GeometryAlgorithms (505)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module AudioCapture (503)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module AudioCaptureRtAudio (502)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module ArchVisCharacter (499)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module AssetTags (497)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module AppleImageUtilsBlueprintSupport (495)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module AppleImageUtils (493)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module AndroidPermission (491)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module NiagaraEditorWidgets (489)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module ActorLayerUtilitiesEditor (487)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module ActorLayerUtilities (485)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module MediaPlateEditor (483)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module MediaPlate (481)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module MediaCompositing (479)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module ImgMedia (477)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module BlendSpaceMotionAnalysis (475)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module ControlRigSpline (473)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module AnimationModifierLibrary (471)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module InterchangeEditorUtilities (469)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module InterchangeResultsBrowser (467)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module InterchangeEditorPipelines (465)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module InterchangeEditor (463)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module InterchangeFbxParser (461)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module InterchangeCommonParser (459)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module InterchangeDispatcher (457)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module InterchangePipelines (455)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module InterchangeExport (453)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module InterchangeMessages (451)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module InterchangeImport (449)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module InterchangeFactoryNodes (447)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module InterchangeNodes (445)
+[2023.06.16-18.20.56:286][ 69]LogModuleManager: Shutting down and abandoning module PaperTiledImporter (443)
+[2023.06.16-18.20.56:287][ 69]LogModuleManager: Shutting down and abandoning module PaperSpriteSheetImporter (441)
+[2023.06.16-18.20.56:287][ 69]LogModuleManager: Shutting down and abandoning module Paper2DEditor (439)
+[2023.06.16-18.20.56:287][ 69]LogModuleManager: Shutting down and abandoning module EditorTraceUtilities (437)
+[2023.06.16-18.20.56:287][ 69]LogModuleManager: Shutting down and abandoning module TraceUtilities (435)
+[2023.06.16-18.20.56:287][ 69]LogModuleManager: Shutting down and abandoning module InputEditor (433)
+[2023.06.16-18.20.56:287][ 69]LogModuleManager: Shutting down and abandoning module MeshPaintingToolset (431)
+[2023.06.16-18.20.56:287][ 69]LogModuleManager: Shutting down and abandoning module MeshPaintEditorMode (429)
+[2023.06.16-18.20.56:287][ 69]LogModuleManager: Shutting down and abandoning module UdpMessaging (427)
+[2023.06.16-18.20.56:388][ 69]LogModuleManager: Shutting down and abandoning module TcpMessaging (425)
+[2023.06.16-18.20.56:489][ 69]LogModuleManager: Shutting down and abandoning module GameplayCameras (423)
+[2023.06.16-18.20.56:489][ 69]LogModuleManager: Shutting down and abandoning module PythonScriptPlugin (421)
+[2023.06.16-18.20.56:489][ 69]LogModuleManager: Shutting down and abandoning module PBIK (419)
+[2023.06.16-18.20.56:489][ 69]LogModuleManager: Shutting down and abandoning module FullBodyIK (417)
+[2023.06.16-18.20.56:489][ 69]LogModuleManager: Shutting down and abandoning module ChaosCachingEditor (415)
+[2023.06.16-18.20.56:489][ 69]LogModuleManager: Shutting down and abandoning module TakeRecorder (414)
+[2023.06.16-18.20.56:489][ 69]LogModuleManager: Shutting down and abandoning module ChaosCaching (411)
+[2023.06.16-18.20.56:489][ 69]LogModuleManager: Shutting down and abandoning module ActorSequence (409)
+[2023.06.16-18.20.56:489][ 69]LogModuleManager: Shutting down and abandoning module FacialAnimationEditor (407)
+[2023.06.16-18.20.56:489][ 69]LogModuleManager: Shutting down and abandoning module FacialAnimation (405)
+[2023.06.16-18.20.56:489][ 69]LogModuleManager: Shutting down and abandoning module GameplayTagsEditor (403)
+[2023.06.16-18.20.56:489][ 69]LogModuleManager: Shutting down and abandoning module DataValidation (401)
+[2023.06.16-18.20.56:489][ 69]LogModuleManager: Shutting down and abandoning module AssetManagerEditor (399)
+[2023.06.16-18.20.56:489][ 69]LogModuleManager: Shutting down and abandoning module LevelEditor (398)
+[2023.06.16-18.20.56:491][ 69]LogModuleManager: Shutting down and abandoning module PixelInspectorModule (397)
+[2023.06.16-18.20.56:491][ 69]LogModuleManager: Shutting down and abandoning module LevelAssetEditor (395)
+[2023.06.16-18.20.56:491][ 69]LogModuleManager: Shutting down and abandoning module CommonMenuExtensions (393)
+[2023.06.16-18.20.56:491][ 69]LogModuleManager: Shutting down and abandoning module MainFrame (391)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module HotReload (390)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module TreeMap (386)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module TraceDataFiltering (383)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module PropertyAccessNode (381)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module AnimationSharing (379)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module Synthesis (377)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module ProceduralMeshComponent (375)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module SignificanceManager (373)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module PropertyAccessEditor (371)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module SoundFields (369)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module MetasoundEditor (367)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module AudioWidgets (366)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module AdvancedWidgets (365)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module MetasoundEngineTest (361)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module MetasoundEngine (359)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module WaveTable (358)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module AudioCodecEngine (356)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module MetasoundStandardNodes (353)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module MetasoundFrontend (351)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module MetasoundGenerator (349)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module MetasoundGraphCore (347)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module LocationServicesBPLibrary (345)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module CustomMeshComponent (343)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module AudioSynesthesia (341)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module AudioAnalyzer (340)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module AudioSynesthesiaCore (337)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module CableComponent (335)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module NiagaraAnimNotifies (333)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module Niagara (331)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module SignalProcessing (330)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module NiagaraEditor (328)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module ContentBrowser (327)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module ToolMenus (326)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module ContentBrowserData (324)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module NiagaraCore (319)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module ImgMediaEngine (317)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module IKRigDeveloper (315)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module IKRig (313)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module ControlRigDeveloper (311)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module ControlRig (309)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module LevelSequence (308)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module EnvironmentQueryEditor (305)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module Paper2D (303)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module InputBlueprintNodes (301)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module EnhancedInput (299)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module WindowsMoviePlayer (297)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module WebMMoviePlayer (295)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module AndroidFileServer (293)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module NetworkReplayStreaming (291)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module PacketHandler (289)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module TimeManagement (287)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module AnimationDataController (285)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module ClothingSystemEditor (283)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module ClothingSystemRuntimeNv (281)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module MediaAssets (279)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module Overlay (277)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module OverlayEditor (276)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module VREditor (273)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module StringTableEditor (271)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module GameplayTasksEditor (269)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module BehaviorTreeEditor (267)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module FunctionalTesting (265)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module CollisionAnalyzer (263)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module WorkspaceMenuStructure (262)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module UMG (259)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module UMGEditor (258)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module EditorStyle (253)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module SlateReflector (251)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module Slate (249)
+[2023.06.16-18.20.56:492][ 69]LogModuleManager: Shutting down and abandoning module SlateCore (247)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module SubobjectDataInterface (245)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module LandscapeEditorUtilities (243)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module UnrealEd (241)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module MRMesh (239)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module Messaging (237)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module SourceCodeAccess (235)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module HeadMountedDisplay (233)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module Networking (231)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module Core (229)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module MaterialEditor (227)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module MovieSceneTools (225)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module CurveEditor (224)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module Sequencer (222)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module KismetCompiler (219)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module MeshBuilder (217)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module NaniteBuilder (215)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module MeshUtilities (213)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module MeshMergeUtilities (212)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module MeshReductionInterface (211)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module MeshBoneReduction (210)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module SkeletalMeshReduction (208)
+[2023.06.16-18.20.56:493][ 69]LogModuleManager: Shutting down and abandoning module ProxyLODMeshReduction (206)
+[2023.06.16-18.20.56:494][ 69]LogModuleManager: Shutting down and abandoning module QuadricMeshReduction (204)
+[2023.06.16-18.20.56:494][ 69]LogModuleManager: Shutting down and abandoning module MaterialBaking (200)
+[2023.06.16-18.20.56:494][ 69]LogModuleManager: Shutting down and abandoning module TargetDeviceServices (197)
+[2023.06.16-18.20.56:505][ 69]LogModuleManager: Shutting down and abandoning module NullInstallBundleManager (193)
+[2023.06.16-18.20.56:505][ 69]LogModuleManager: Shutting down and abandoning module DerivedDataCache (191)
+[2023.06.16-18.20.56:508][ 69]LogModuleManager: Shutting down and abandoning module TargetPlatform (189)
+[2023.06.16-18.20.56:508][ 69]LogModuleManager: Shutting down and abandoning module ShaderFormatVectorVM (188)
+[2023.06.16-18.20.56:508][ 69]LogModuleManager: Shutting down and abandoning module MetalShaderFormat (186)
+[2023.06.16-18.20.56:508][ 69]LogModuleManager: Shutting down and abandoning module VulkanShaderFormat (184)
+[2023.06.16-18.20.56:508][ 69]LogModuleManager: Shutting down and abandoning module ShaderFormatOpenGL (182)
+[2023.06.16-18.20.56:508][ 69]LogModuleManager: Shutting down and abandoning module ShaderFormatD3D (180)
+[2023.06.16-18.20.56:508][ 69]LogModuleManager: Shutting down and abandoning module AudioFormatBink (178)
+[2023.06.16-18.20.56:508][ 69]LogModuleManager: Shutting down and abandoning module AudioFormatADPCM (175)
+[2023.06.16-18.20.56:508][ 69]LogModuleManager: Shutting down and abandoning module AudioFormatOGG (173)
+[2023.06.16-18.20.56:508][ 69]LogModuleManager: Shutting down and abandoning module AudioFormatOPUS (171)
+[2023.06.16-18.20.56:508][ 69]LogModuleManager: Shutting down and abandoning module WindowsTargetPlatform (169)
+[2023.06.16-18.20.56:508][ 69]LogModuleManager: Shutting down and abandoning module TVOSTargetPlatform (167)
+[2023.06.16-18.20.56:508][ 69]LogModuleManager: Shutting down and abandoning module LinuxArm64TargetPlatform (165)
+[2023.06.16-18.20.56:508][ 69]LogModuleManager: Shutting down and abandoning module LinuxTargetPlatform (163)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module IOSTargetPlatform (161)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module HoloLensTargetPlatform (159)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module AndroidTargetPlatform (157)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module TextureFormat (155)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module ImageWrapper (154)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module TextureFormatOodle (152)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module TextureFormatUncompressed (150)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module TextureFormatIntelISPCTexComp (148)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module TextureFormatETC2 (146)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module TextureFormatDXT (144)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module TextureFormatASTC (142)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module TurnkeySupport (139)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module InputCore (136)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module Settings (134)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module DirectoryWatcher (132)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module ChaosSolverEngine (130)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module FieldSystemEngine (129)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module Chaos (126)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module GeometryCore (125)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module WindowsPlatformFeatures (122)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module GameplayMediaEncoder (121)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module AVEncoder (120)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module D3D12RHI (116)
+[2023.06.16-18.20.56:509][ 69]LogModuleManager: Shutting down and abandoning module GPULightmass (114)
+[2023.06.16-18.20.56:510][ 69]LogModuleManager: Shutting down and abandoning module ChaosCloth (112)
+[2023.06.16-18.20.56:510][ 69]LogModuleManager: Shutting down and abandoning module VariantManagerContent (110)
+[2023.06.16-18.20.56:510][ 69]LogModuleManager: Shutting down and abandoning module GLTFExporter (108)
+[2023.06.16-18.20.56:510][ 69]LogModuleManager: Shutting down and abandoning module DatasmithContent (106)
+[2023.06.16-18.20.56:510][ 69]LogModuleManager: Shutting down and abandoning module PixWinPlugin (104)
+[2023.06.16-18.20.56:510][ 69]LogModuleManager: Shutting down and abandoning module OnlineBlueprintSupport (102)
+[2023.06.16-18.20.56:510][ 69]LogModuleManager: Shutting down and abandoning module OnlineSubsystemUtils (100)
+[2023.06.16-18.20.56:510][ 69]LogModuleManager: Shutting down and abandoning module OnlineSubsystem (98)
+[2023.06.16-18.20.56:511][ 69]LogModuleManager: Shutting down and abandoning module XMPP (93)
+[2023.06.16-18.20.56:511][ 69]LogModuleManager: Shutting down and abandoning module WebSockets (92)
+[2023.06.16-18.20.56:531][ 69]LogModuleManager: Shutting down and abandoning module HTTP (89)
+[2023.06.16-18.20.56:531][ 69]LogHttp: Warning: [FHttpManager::Flush] FlushReason was Shutdown. Unbinding delegates for 1 outstanding Http Requests:
+[2023.06.16-18.20.56:531][ 69]LogHttp: Warning: 	verb=[POST] url=[https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7BDC800B77-41B4-E050-1F86-A4876DBDD53D%7D&AppID=UEEditor.Rocket.Release&AppVersion=5.1.1-23901901%2B%2B%2BUE5%2BRelease-5.1&UserID=4eff082a42eb5a41a23eeab2723ca944%7C0a6b8db405494cc3bc80aa08746406bc%7Ccb8aaf18-981a-43fe-a0f7-32246d330cc8&AppEnvironment=datacollector-binary&UploadType=eteventstream] refs=[1] status=Processing
+[2023.06.16-18.20.56:547][ 69]LogModuleManager: Shutting down and abandoning module SSL (88)
+[2023.06.16-18.20.56:548][ 69]LogModuleManager: Shutting down and abandoning module OnlineServicesCommonEngineUtils (84)
+[2023.06.16-18.20.56:548][ 69]LogModuleManager: Shutting down and abandoning module OnlineServicesCommon (82)
+[2023.06.16-18.20.56:548][ 69]LogModuleManager: Shutting down and abandoning module OnlineServicesInterface (80)
+[2023.06.16-18.20.56:548][ 69]LogModuleManager: Shutting down and abandoning module LauncherChunkInstaller (78)
+[2023.06.16-18.20.56:548][ 69]LogModuleManager: Shutting down and abandoning module WindowsDeviceProfileSelector (76)
+[2023.06.16-18.20.56:548][ 69]LogModuleManager: Shutting down and abandoning module ExampleDeviceProfileSelector (74)
+[2023.06.16-18.20.56:548][ 69]LogModuleManager: Shutting down and abandoning module ChunkDownloader (72)
+[2023.06.16-18.20.56:548][ 69]LogModuleManager: Shutting down and abandoning module NiagaraVertexFactories (70)
+[2023.06.16-18.20.56:548][ 69]LogModuleManager: Shutting down and abandoning module NiagaraShader (68)
+[2023.06.16-18.20.56:548][ 69]LogModuleManager: Shutting down and abandoning module WmfMedia (66)
+[2023.06.16-18.20.56:550][ 69]LogModuleManager: Shutting down and abandoning module Media (65)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module ExrReaderGpu (62)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module AISupportModule (60)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module DesktopPlatform (58)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module PythonScriptPluginPreload (56)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module PlatformCryptoOpenSSL (54)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module PlatformCryptoTypes (52)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module PlatformCrypto (50)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module PerforceSourceControl (48)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module SourceControl (47)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module XGEController (44)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module FastBuildController (42)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module AnimationModifiers (40)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module AudioEditor (38)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module PropertyEditor (37)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module Virtualization (34)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module MessageLog (33)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module TextureCompressor (30)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module RenderCore (28)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module Landscape (26)
+[2023.06.16-18.20.56:551][ 69]LogModuleManager: Shutting down and abandoning module SlateRHIRenderer (24)
+[2023.06.16-18.20.56:552][ 69]LogModuleManager: Shutting down and abandoning module AnimGraphRuntime (22)
+[2023.06.16-18.20.56:552][ 69]LogModuleManager: Shutting down and abandoning module Renderer (20)
+[2023.06.16-18.20.56:552][ 69]LogModuleManager: Shutting down and abandoning module Engine (18)
+[2023.06.16-18.20.56:552][ 69]LogModuleManager: Shutting down and abandoning module CoreUObject (16)
+[2023.06.16-18.20.56:552][ 69]LogModuleManager: Shutting down and abandoning module SandboxFile (14)
+[2023.06.16-18.20.56:552][ 69]LogModuleManager: Shutting down and abandoning module PakFile (12)
+[2023.06.16-18.20.56:552][ 69]LogModuleManager: Shutting down and abandoning module RSA (11)
+[2023.06.16-18.20.56:552][ 69]LogModuleManager: Shutting down and abandoning module NetworkFile (8)
+[2023.06.16-18.20.56:552][ 69]LogModuleManager: Shutting down and abandoning module StreamingFile (6)
+[2023.06.16-18.20.56:552][ 69]LogModuleManager: Shutting down and abandoning module CookOnTheFly (4)
+[2023.06.16-18.20.56:552][ 69]LogModuleManager: Shutting down and abandoning module StorageServerClient (2)
+[2023.06.16-18.20.56:910][ 69]LogD3D12RHI: ~FD3D12DynamicRHI
+[2023.06.16-18.20.56:964][ 69]LogExit: Exiting.
+[2023.06.16-18.20.56:976][ 69]Log file closed, 06/16/23 20:20:56
