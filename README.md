@@ -1,6 +1,6 @@
 <h1>The Cauldron - Escape Room</h1>
 The Cauldron is a first-person escape room game developed in Unreal Engine. Players must solve puzzles and interact with their environment to uncover secrets and escape. Created as a university project by a team of four members over four months, the game emphasizes immersive gameplay and creative problem-solving.
-<br>
+<br> <br>
 Play the game on <a href="https://retratos.itch.io/the-cauldron">itch.io.</a>
 <h3>Features</h3>
 <ul>
